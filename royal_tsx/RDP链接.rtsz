@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RTSZDocument>
+  <RoyalDocument>
+    <ID>14577af6-d06f-4f60-b12d-fa0def58b7ae</ID>
+    <Modified>09/05/2023 13:37:03.092</Modified>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <Name>RDP链接</Name>
+    <Created>11/07/2022 07:51:36.288</Created>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>0</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <AutoMergeOption>1</AutoMergeOption>
+    <AutoSaveAfterChange>False</AutoSaveAfterChange>
+    <AutoSaveOnClose>False</AutoSaveOnClose>
+    <ColorFromParent>False</ColorFromParent>
+    <DeletedObjectHistory>d8e9d5fd-c6c8-4278-ba12-3daf4e43cf5c;724e45d5-82e9-4ddd-b179-7b38368784e4;bf8406aa-6570-4d8a-8a72-900c697a2367;6135e22d-efd4-4146-977d-14d3436d647d</DeletedObjectHistory>
+    <DocumentType>Workspace</DocumentType>
+    <LockdownFeaturesInUse>{}</LockdownFeaturesInUse>
+    <SaveOption>2</SaveOption>
+  </RoyalDocument>
+  <RoyalTrash>
+    <ID>673b981b-a6a4-4dad-bae6-0568992ecb38</ID>
+    <Name>Trashcan</Name>
+    <Modified>11/07/2022 07:51:36.299</Modified>
+    <Created>11/07/2022 07:51:36.288</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>14577af6-d06f-4f60-b12d-fa0def58b7ae</ParentID>
+  </RoyalTrash>
+  <RoyalRDSConnection>
+    <ID>68002419-623d-440b-9b29-c4b0c7933dfd</ID>
+    <Name>哈夫曼win</Name>
+    <Modified>11/07/2022 08:27:23.911</Modified>
+    <Created>11/07/2022 07:52:51.576</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>Qj+7BRqQ42d//Z+hEQFTuMIo8XzSKksFTsTLVFHGmAu8XYytbAVYBn1rl5fG1AOe9mhhHQsXbreENCEOtW44wa/FizsINuFCpzVs2kMlwxw=</CredentialPassword>
+    <CredentialUsername>oem</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>14577af6-d06f-4f60-b12d-fa0def58b7ae</ParentID>
+    <RDPPort>3389</RDPPort>
+    <URI>10.0.8.15</URI>
+  </RoyalRDSConnection>
+  <RoyalRDSConnection>
+    <ID>f3f37ed4-1267-43c0-a51a-1319c06b80ba</ID>
+    <Name>matebook14</Name>
+    <Modified>11/07/2022 08:30:58.272</Modified>
+    <Created>11/07/2022 08:16:15.177</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>pqX1vnp1S99Ox6E3Bm7NERhbQoNJnJHV0YoyXJP2wotabOOgCqijpzkdV3kb6SJXb7MM5EH+PBIgWPQ8B/f+61oKoT9Xd43lFkVlV7Ka5Lc=</CredentialPassword>
+    <CredentialUsername>李开开</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>14577af6-d06f-4f60-b12d-fa0def58b7ae</ParentID>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RDPPort>3389</RDPPort>
+    <URI>10.8.0.17</URI>
+    <UseMultiMon>False</UseMultiMon>
+  </RoyalRDSConnection>
+</RTSZDocument>

@@ -1,0 +1,949 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RTSZDocument>
+  <RoyalDocument>
+    <ID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ID>
+    <Modified>07/14/2023 06:15:06.580</Modified>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <Name>蓝湖</Name>
+    <Created>07/10/2023 06:29:51.088</Created>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>0</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <AutoMergeOption>1</AutoMergeOption>
+    <AutoSaveAfterChange>False</AutoSaveAfterChange>
+    <AutoSaveOnClose>False</AutoSaveOnClose>
+    <ColorFromParent>False</ColorFromParent>
+    <DeletedObjectHistory>b609e106-b974-4dfc-9d9a-9f6f0592faba;3c98b203-d640-41d1-b8d3-5e2689a09055;eadd30df-ed6a-42e1-a314-ec02edfcb977;45d39c60-faf6-40d9-b21b-e67433dcee5b</DeletedObjectHistory>
+    <DocumentType>Workspace</DocumentType>
+    <SaveOption>2</SaveOption>
+  </RoyalDocument>
+  <RoyalTrash>
+    <ID>a135d51d-5424-45a0-96e3-de1940413777</ID>
+    <Name>Trashcan</Name>
+    <Modified>07/10/2023 06:29:51.109</Modified>
+    <Created>07/10/2023 06:29:51.089</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ParentID>
+  </RoyalTrash>
+  <RoyalCredential>
+    <ID>de4ffee9-6305-4f48-b621-0e330d1ca063</ID>
+    <Name>masgergo</Name>
+    <Modified>07/10/2023 09:00:33.355</Modified>
+    <Created>07/10/2023 08:59:23.699</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <ColorFromParent>False</ColorFromParent>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>a135d51d-5424-45a0-96e3-de1940413777</ParentID>
+    <PrivateKeyMode>0</PrivateKeyMode>
+    <PrivateKeyPath>~/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+  </RoyalCredential>
+  <RoyalFileTransferConnection>
+    <ID>5d804057-5746-437d-86fd-3faaa2a6bc0c</ID>
+    <Name>MasterGo-test01</Name>
+    <Modified>07/10/2023 09:41:03.298</Modified>
+    <Created>07/10/2023 08:30:37.636</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyContent>45;45;45;45;45;66;69;71;73;78;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10;98;51;66;108;98;110;78;122;97;67;49;114;90;88;107;116;100;106;69;65;65;65;65;65;66;71;53;118;98;109;85;65;65;65;65;69;98;109;57;117;90;81;65;65;65;65;65;65;65;65;65;66;65;65;65;66;108;119;65;65;65;65;100;122;99;50;103;116;99;110;10;78;104;65;65;65;65;65;119;69;65;65;81;65;65;65;89;69;65;122;107;52;81;122;115;84;68;113;84;100;97;43;103;100;69;105;66;72;76;98;47;106;104;68;102;87;111;111;71;119;114;100;55;102;43;103;120;118;116;52;107;81;106;117;99;90;82;114;115;115;103;10;83;117;89;81;68;104;116;57;110;90;108;97;75;76;110;122;86;54;114;104;82;74;101;82;103;81;109;81;108;105;108;114;43;81;89;49;102;54;67;65;108;89;73;87;114;83;47;102;86;67;80;53;100;107;85;55;72;85;121;110;87;55;108;74;84;66;88;89;66;76;10;111;100;102;115;108;109;49;107;87;118;54;69;110;98;50;50;43;105;107;75;53;73;113;98;65;121;75;118;112;116;83;89;120;52;52;65;102;111;80;116;116;85;76;53;88;116;47;100;76;79;86;76;102;118;51;80;73;47;106;52;102;85;114;74;78;87;81;114;114;102;10;115;98;55;102;76;116;118;72;73;49;117;49;79;79;98;90;105;109;101;84;54;53;108;80;48;97;70;119;100;50;97;113;98;70;47;90;110;103;114;47;97;49;109;106;117;97;85;53;70;80;72;65;88;108;76;105;49;88;73;80;74;102;103;85;111;114;88;67;113;97;10;43;104;89;90;101;119;90;87;57;78;97;80;43;101;122;109;97;102;53;47;103;90;79;57;66;118;120;84;72;121;97;115;104;73;47;56;50;54;122;73;121;47;49;66;51;53;114;115;76;75;79;78;56;118;86;78;87;113;100;78;112;100;116;97;54;47;49;120;89;102;10;121;97;112;55;111;111;120;119;90;104;118;47;121;120;108;115;98;116;104;97;121;86;90;75;108;77;103;104;52;120;72;53;88;88;109;85;51;121;101;75;102;83;110;66;71;121;110;53;109;74;81;111;121;73;109;82;119;47;77;76;81;100;88;89;87;110;86;76;80;76;10;106;81;107;114;65;74;52;73;121;105;82;79;82;86;75;74;77;122;77;48;69;75;74;77;73;74;71;110;56;113;112;81;50;85;77;66;79;48;53;77;104;57;66;84;73;122;69;48;98;122;114;86;66;82;48;90;67;90;108;57;79;108;66;74;47;67;49;119;77;74;10;112;101;108;54;101;80;83;99;90;43;102;111;83;114;83;98;110;77;71;77;87;67;81;86;67;73;87;77;90;55;115;48;48;102;77;114;47;98;99;104;65;65;65;70;111;69;52;84;77;52;116;79;69;122;79;76;65;65;65;65;66;51;78;122;97;67;49;121;99;50;10;69;65;65;65;71;66;65;77;53;79;69;77;55;69;119;54;107;51;87;118;111;72;82;73;103;82;121;50;47;52;52;81;51;49;113;75;66;115;75;51;101;51;47;111;77;98;55;101;74;69;73;55;110;71;85;97;55;76;73;69;114;109;69;65;52;98;102;90;50;90;10;87;105;105;53;56;49;101;113;52;85;83;88;107;89;69;74;107;74;89;112;97;47;107;71;78;88;43;103;103;74;87;67;70;113;48;118;51;49;81;106;43;88;90;70;79;120;49;77;112;49;117;53;83;85;119;86;50;65;83;54;72;88;55;74;90;116;90;70;114;43;10;104;74;50;57;116;118;111;112;67;117;83;75;109;119;77;105;114;54;98;85;109;77;101;79;65;72;54;68;55;98;86;67;43;86;55;102;51;83;122;108;83;51;55;57;122;121;80;52;43;72;49;75;121;84;86;107;75;54;51;55;71;43;51;121;55;98;120;121;78;98;10;116;84;106;109;50;89;112;110;107;43;117;90;84;57;71;104;99;72;100;109;113;109;120;102;50;90;52;75;47;50;116;90;111;55;109;108;79;82;84;120;119;70;53;83;52;116;86;121;68;121;88;52;70;75;75;49;119;113;109;118;111;87;71;88;115;71;86;118;84;87;10;106;47;110;115;53;109;110;43;102;52;71;84;118;81;98;56;85;120;56;109;114;73;83;80;47;78;117;115;121;77;118;57;81;100;43;97;55;67;121;106;106;102;76;49;84;86;113;110;84;97;88;98;87;117;118;57;99;87;72;56;109;113;101;54;75;77;99;71;89;98;10;47;56;115;90;98;71;55;89;87;115;108;87;83;112;84;73;73;101;77;82;43;86;49;53;108;78;56;110;105;110;48;112;119;82;115;112;43;90;105;85;75;77;105;74;107;99;80;122;67;48;72;86;50;70;112;49;83;122;121;52;48;74;75;119;67;101;67;77;111;107;10;84;107;86;83;105;84;77;122;78;66;67;105;84;67;67;82;112;47;75;113;85;78;108;68;65;84;116;79;84;73;102;81;85;121;77;120;78;71;56;54;49;81;85;100;71;81;109;90;102;84;112;81;83;102;119;116;99;68;67;97;88;112;101;110;106;48;110;71;102;110;10;54;69;113;48;109;53;122;66;106;70;103;107;70;81;105;70;106;71;101;55;78;78;72;122;75;47;50;51;73;81;65;65;65;65;77;66;65;65;69;65;65;65;71;65;87;116;86;71;85;122;79;82;68;108;85;103;67;107;118;101;52;97;89;115;69;122;51;97;73;83;10;74;84;80;50;98;65;56;76;73;106;76;105;106;67;52;85;101;116;68;121;79;66;88;86;116;122;43;87;89;52;70;87;52;72;76;98;101;83;87;98;73;100;115;84;67;56;104;69;51;84;115;54;79;53;100;70;81;67;104;82;56;49;117;78;54;55;72;112;105;114;10;85;85;57;116;110;103;100;69;48;56;48;66;106;82;72;116;56;100;87;118;114;118;57;68;73;68;109;116;117;79;65;71;70;106;117;83;105;115;122;83;76;49;105;69;107;47;48;89;89;120;88;47;48;75;112;52;75;100;84;101;100;52;48;106;116;87;69;117;80;78;10;70;102;101;115;48;120;75;86;51;102;68;48;72;100;117;70;49;79;120;122;107;76;49;115;43;101;112;65;122;116;67;82;50;100;72;84;86;73;111;105;103;75;67;103;85;50;118;74;110;65;54;103;83;82;108;120;67;116;52;111;43;70;75;105;43;102;97;43;50;73;10;120;55;107;50;87;56;70;104;79;71;90;52;70;120;66;107;71;81;121;84;104;114;120;107;104;75;98;48;110;70;121;53;102;57;85;74;115;117;99;69;109;88;55;70;84;75;106;80;49;114;116;48;111;79;56;47;68;72;111;105;87;86;119;103;111;66;103;108;90;55;10;105;113;52;79;65;75;79;87;116;82;97;111;68;83;116;116;98;99;102;70;67;84;111;122;66;84;55;89;116;106;67;90;119;99;98;112;101;84;120;84;48;107;49;115;87;77;121;122;107;78;103;87;105;51;52;80;43;107;108;117;86;104;83;99;115;83;75;113;100;90;10;87;78;85;88;77;81;115;87;75;67;48;85;119;120;70;106;86;53;99;119;57;53;89;90;87;83;119;106;82;112;119;67;87;47;89;105;54;104;88;118;84;121;54;74;73;87;107;122;72;114;104;50;118;66;102;49;76;79;100;119;82;97;74;89;115;47;116;71;54;78;10;119;101;112;82;105;74;70;84;72;108;55;87;122;97;118;74;81;85;98;78;86;77;48;68;98;54;76;113;112;76;80;116;105;115;54;112;110;90;115;118;78;68;50;117;102;57;66;67;108;109;75;110;119;99;53;107;104;77;72;110;65;65;103;78;113;100;65;65;65;65;10;119;81;68;66;113;102;56;87;108;48;105;70;54;106;70;72;118;55;69;102;89;105;120;53;76;111;117;83;115;114;74;107;101;80;86;82;121;70;83;106;79;83;70;122;90;54;70;74;120;70;66;49;67;107;109;68;76;76;81;48;83;119;103;69;47;57;82;74;86;54;10;65;50;98;114;106;83;101;100;79;102;110;56;66;98;55;105;78;78;115;70;66;88;76;56;109;89;79;99;101;113;51;83;121;113;100;74;84;101;76;65;71;89;74;108;53;86;55;86;101;66;48;49;49;70;49;117;69;74;54;73;109;88;98;43;74;57;117;81;81;51;10;43;74;118;98;48;85;120;47;119;100;47;53;109;117;86;89;82;73;47;106;72;52;52;115;66;100;54;120;53;121;121;80;110;110;115;72;47;72;98;121;107;102;55;69;69;109;69;55;67;106;106;103;47;79;56;72;83;111;49;85;117;87;121;79;116;122;55;81;113;102;10;66;99;82;43;72;85;75;76;114;72;100;54;104;119;89;54;83;103;78;88;73;54;55;72;102;105;57;114;104;90;75;84;115;90;105;51;74;116;100;69;73;66;53;100;113;53;99;57;89;65;65;65;68;66;65;80;71;106;72;54;109;101;102;82;73;55;43;76;83;122;10;65;84;104;55;51;56;47;50;43;71;117;110;48;56;101;52;68;87;88;110;109;49;56;90;111;84;74;76;102;80;80;120;43;53;48;98;76;48;97;104;116;75;77;120;53;102;70;73;110;121;105;84;80;75;76;65;76;83;88;100;100;89;82;65;55;43;76;51;105;74;10;74;120;118;107;101;83;97;55;73;70;82;106;108;99;83;43;47;71;102;102;70;70;105;47;121;113;107;98;106;56;69;89;70;99;122;102;84;73;79;122;111;52;88;104;70;105;48;68;68;47;69;78;55;43;50;51;112;54;107;98;101;102;79;114;99;48;83;65;81;72;10;98;65;67;70;89;72;98;81;69;65;108;65;116;77;65;81;50;52;116;114;78;49;121;70;69;117;115;73;52;97;89;90;114;71;113;49;110;114;99;112;107;87;49;74;102;52;88;101;50;57;110;85;76;116;65;76;53;114;101;47;108;120;70;87;119;68;49;50;83;72;10;83;51;90;122;102;81;118;89;50;47;122;100;121;112;81;103;50;48;65;52;118;104;50;113;79;107;52;75;90;84;110;119;65;65;65;77;69;65;50;112;70;79;52;69;90;75;108;75;118;55;116;121;118;55;87;85;57;122;83;122;121;47;115;56;77;104;121;73;47;55;10;50;68;85;79;98;109;80;81;77;52;79;103;77;73;51;102;65;66;54;90;85;68;56;109;104;71;79;52;48;110;84;47;122;89;117;57;55;47;67;47;80;56;47;68;72;50;74;106;48;120;117;69;55;77;121;89;107;50;105;116;105;89;104;73;54;75;51;55;100;116;10;121;71;121;80;75;78;118;80;48;74;122;51;89;75;113;100;80;43;102;116;117;98;120;69;50;54;89;84;52;67;107;57;82;56;53;115;100;86;76;101;115;53;50;97;100;50;75;80;54;43;77;112;76;110;67;101;78;116;111;72;106;105;111;85;103;99;110;82;79;50;10;56;101;86;54;67;66;118;76;111;106;112;76;120;71;43;43;119;115;71;83;101;105;67;66;85;67;120;55;86;115;65;115;112;89;78;82;67;113;82;118;106;51;103;69;54;116;117;68;103;107;48;90;102;56;98;66;118;107;67;72;71;109;105;100;98;116;110;118;57;121;10;98;106;89;68;67;113;109;84;113;57;116;102;48;47;65;65;65;65;74;87;120;112;97;50;70;112;97;50;70;112;81;71;120;112;101;87;70;117;98;71;57;117;90;50;82;108;84;87;70;106;81;109;57;118;97;121;49;81;99;109;56;117;98;71;57;106;89;87;119;66;10;65;103;77;69;66;81;61;61;10;45;45;45;45;45;69;78;68;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10</CredentialKeyContent>
+    <CredentialKeyFile>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</CredentialKeyFile>
+    <CredentialKeyMode>1</CredentialKeyMode>
+    <CredentialMode>4</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassphrase>ZI/uKiZDXfQXue3Fkj4aVl6I5NHxQmQLvXVWvACXqJYw5i5s0i3ciy8ukk8sXuD3yhaby1u8gc5WTRhwNru2Arj6uOSYw9Hbfl+SRnmfPok=</CredentialPassphrase>
+    <CredentialPassword>7hmM3ltITw9jWhmWkK9HNYYeAZgwzNCTlwqisxLPqDHaoacw+w5cncO+j+VUuh2Cyg0K1fNNfjDxs21cBshINSqjqbTdbYODcDw432/Dxqc=</CredentialPassword>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <Encoding>utf-8</Encoding>
+    <EncryptionKeyAlgorithms>{1:aes256-gcm@openssh.com};{1:aes128-gcm@openssh.com};{1:aes256-ctr};{1:aes192-ctr};{1:aes128-ctr};{1:3des-ctr};{1:twofish256-ctr};{1:twofish192-ctr};{1:twofish128-ctr};{0:blowfish-ctr};{1:aes256-cbc};{1:aes192-cbc};{1:aes128-cbc};{1:3des-cbc};{1:twofish256-cbc};{1:twofish192-cbc};{1:twofish128-cbc};{0:twofish-cbc};{0:blowfish-cbc};{1:chacha20-poly1305@openssh.com};{0:arcfour256};{0:arcfour128}</EncryptionKeyAlgorithms>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <FTPPassiveMode>False</FTPPassiveMode>
+    <FTPTransferMode>1</FTPTransferMode>
+    <HostKeyAlgorithms>{1:ssh-dss};{1:rsa-sha2-256};{1:ssh-rsa-sha256@ssh.com};{1:rsa-sha2-512};{1:ssh-rsa};{1:x509v3-rsa2048-sha256};{1:x509v3-sign-rsa-sha256@ssh.com};{1:x509v3-sign-rsa};{1:x509v3-sign-dss};{1:ssh-ed25519};{1:ecdsa-sha2-nistp256};{1:x509v3-ecdsa-sha2-nistp256};{1:ecdsa-sha2-nistp384};{1:x509v3-ecdsa-sha2-nistp384};{1:ecdsa-sha2-nistp521};{1:x509v3-ecdsa-sha2-nistp521}</HostKeyAlgorithms>
+    <IgnoreCertificateAndFingerprint>False</IgnoreCertificateAndFingerprint>
+    <InitialLocalPathMode>3</InitialLocalPathMode>
+    <InitialRemotePathMode>0</InitialRemotePathMode>
+    <KeepAliveInterval>0</KeepAliveInterval>
+    <KeyExchangeAlgorithms>{1:curve25519-sha256};{1:curve25519-sha256@libssh.org};{1:ecdh-sha2-nistp256};{1:ecdh-sha2-nistp384};{1:ecdh-sha2-nistp521};{1:diffie-hellman-group-exchange-sha256};{1:diffie-hellman-group14-sha256};{1:diffie-hellman-group15-sha512};{1:diffie-hellman-group16-sha512};{1:diffie-hellman-group-exchange-sha1};{1:diffie-hellman-group14-sha1};{1:diffie-hellman-group1-sha1}</KeyExchangeAlgorithms>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <MacAlgorithms>{1:hmac-sha2-256-etm@openssh.com};{1:hmac-sha2-256};{1:hmac-sha2-512-etm@openssh.com};{1:hmac-sha2-512};{1:hmac-sha1};{0:hmac-md5};{0:hmac-sha1-96};{0:hmac-md5-96}</MacAlgorithms>
+    <ParentID>a135d51d-5424-45a0-96e3-de1940413777</ParentID>
+    <Passphrase>AI6NfbLcAJRgF7CVhmblLROn9yUVtPnqj18Sm2EyAzXHdKTBgMGW/CCcvafDCuxCCrXJg75jyeBSoWRdUcZuIEicg0mcX2B7HKR/9AE/Hlw=</Passphrase>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <PreferKeyboardInteractiveOverPasswordAuthentication>False</PreferKeyboardInteractiveOverPasswordAuthentication>
+    <PrivateKeyPath>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+    <Protocol>3</Protocol>
+    <RestoreCreationTime>False</RestoreCreationTime>
+    <RestoreLastAccessTime>False</RestoreLastAccessTime>
+    <RestoreLastWriteTime>False</RestoreLastWriteTime>
+    <ShowHiddenFiles>False</ShowHiddenFiles>
+    <URI>172.17.20.20</URI>
+    <UseLargeBuffers>True</UseLargeBuffers>
+  </RoyalFileTransferConnection>
+  <RoyalCredential>
+    <ID>7a7453f0-c506-4007-b003-21db2fe6f133</ID>
+    <Name>mastergo-test</Name>
+    <Modified>07/10/2023 09:50:56.597</Modified>
+    <Created>07/10/2023 09:49:10.260</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <ColorFromParent>False</ColorFromParent>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>a135d51d-5424-45a0-96e3-de1940413777</ParentID>
+    <PrivateKeyContent>45;45;45;45;45;66;69;71;73;78;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10;98;51;66;108;98;110;78;122;97;67;49;114;90;88;107;116;100;106;69;65;65;65;65;65;66;71;53;118;98;109;85;65;65;65;65;69;98;109;57;117;90;81;65;65;65;65;65;65;65;65;65;66;65;65;65;66;108;119;65;65;65;65;100;122;99;50;103;116;99;110;10;78;104;65;65;65;65;65;119;69;65;65;81;65;65;65;89;69;65;122;107;52;81;122;115;84;68;113;84;100;97;43;103;100;69;105;66;72;76;98;47;106;104;68;102;87;111;111;71;119;114;100;55;102;43;103;120;118;116;52;107;81;106;117;99;90;82;114;115;115;103;10;83;117;89;81;68;104;116;57;110;90;108;97;75;76;110;122;86;54;114;104;82;74;101;82;103;81;109;81;108;105;108;114;43;81;89;49;102;54;67;65;108;89;73;87;114;83;47;102;86;67;80;53;100;107;85;55;72;85;121;110;87;55;108;74;84;66;88;89;66;76;10;111;100;102;115;108;109;49;107;87;118;54;69;110;98;50;50;43;105;107;75;53;73;113;98;65;121;75;118;112;116;83;89;120;52;52;65;102;111;80;116;116;85;76;53;88;116;47;100;76;79;86;76;102;118;51;80;73;47;106;52;102;85;114;74;78;87;81;114;114;102;10;115;98;55;102;76;116;118;72;73;49;117;49;79;79;98;90;105;109;101;84;54;53;108;80;48;97;70;119;100;50;97;113;98;70;47;90;110;103;114;47;97;49;109;106;117;97;85;53;70;80;72;65;88;108;76;105;49;88;73;80;74;102;103;85;111;114;88;67;113;97;10;43;104;89;90;101;119;90;87;57;78;97;80;43;101;122;109;97;102;53;47;103;90;79;57;66;118;120;84;72;121;97;115;104;73;47;56;50;54;122;73;121;47;49;66;51;53;114;115;76;75;79;78;56;118;86;78;87;113;100;78;112;100;116;97;54;47;49;120;89;102;10;121;97;112;55;111;111;120;119;90;104;118;47;121;120;108;115;98;116;104;97;121;86;90;75;108;77;103;104;52;120;72;53;88;88;109;85;51;121;101;75;102;83;110;66;71;121;110;53;109;74;81;111;121;73;109;82;119;47;77;76;81;100;88;89;87;110;86;76;80;76;10;106;81;107;114;65;74;52;73;121;105;82;79;82;86;75;74;77;122;77;48;69;75;74;77;73;74;71;110;56;113;112;81;50;85;77;66;79;48;53;77;104;57;66;84;73;122;69;48;98;122;114;86;66;82;48;90;67;90;108;57;79;108;66;74;47;67;49;119;77;74;10;112;101;108;54;101;80;83;99;90;43;102;111;83;114;83;98;110;77;71;77;87;67;81;86;67;73;87;77;90;55;115;48;48;102;77;114;47;98;99;104;65;65;65;70;111;69;52;84;77;52;116;79;69;122;79;76;65;65;65;65;66;51;78;122;97;67;49;121;99;50;10;69;65;65;65;71;66;65;77;53;79;69;77;55;69;119;54;107;51;87;118;111;72;82;73;103;82;121;50;47;52;52;81;51;49;113;75;66;115;75;51;101;51;47;111;77;98;55;101;74;69;73;55;110;71;85;97;55;76;73;69;114;109;69;65;52;98;102;90;50;90;10;87;105;105;53;56;49;101;113;52;85;83;88;107;89;69;74;107;74;89;112;97;47;107;71;78;88;43;103;103;74;87;67;70;113;48;118;51;49;81;106;43;88;90;70;79;120;49;77;112;49;117;53;83;85;119;86;50;65;83;54;72;88;55;74;90;116;90;70;114;43;10;104;74;50;57;116;118;111;112;67;117;83;75;109;119;77;105;114;54;98;85;109;77;101;79;65;72;54;68;55;98;86;67;43;86;55;102;51;83;122;108;83;51;55;57;122;121;80;52;43;72;49;75;121;84;86;107;75;54;51;55;71;43;51;121;55;98;120;121;78;98;10;116;84;106;109;50;89;112;110;107;43;117;90;84;57;71;104;99;72;100;109;113;109;120;102;50;90;52;75;47;50;116;90;111;55;109;108;79;82;84;120;119;70;53;83;52;116;86;121;68;121;88;52;70;75;75;49;119;113;109;118;111;87;71;88;115;71;86;118;84;87;10;106;47;110;115;53;109;110;43;102;52;71;84;118;81;98;56;85;120;56;109;114;73;83;80;47;78;117;115;121;77;118;57;81;100;43;97;55;67;121;106;106;102;76;49;84;86;113;110;84;97;88;98;87;117;118;57;99;87;72;56;109;113;101;54;75;77;99;71;89;98;10;47;56;115;90;98;71;55;89;87;115;108;87;83;112;84;73;73;101;77;82;43;86;49;53;108;78;56;110;105;110;48;112;119;82;115;112;43;90;105;85;75;77;105;74;107;99;80;122;67;48;72;86;50;70;112;49;83;122;121;52;48;74;75;119;67;101;67;77;111;107;10;84;107;86;83;105;84;77;122;78;66;67;105;84;67;67;82;112;47;75;113;85;78;108;68;65;84;116;79;84;73;102;81;85;121;77;120;78;71;56;54;49;81;85;100;71;81;109;90;102;84;112;81;83;102;119;116;99;68;67;97;88;112;101;110;106;48;110;71;102;110;10;54;69;113;48;109;53;122;66;106;70;103;107;70;81;105;70;106;71;101;55;78;78;72;122;75;47;50;51;73;81;65;65;65;65;77;66;65;65;69;65;65;65;71;65;87;116;86;71;85;122;79;82;68;108;85;103;67;107;118;101;52;97;89;115;69;122;51;97;73;83;10;74;84;80;50;98;65;56;76;73;106;76;105;106;67;52;85;101;116;68;121;79;66;88;86;116;122;43;87;89;52;70;87;52;72;76;98;101;83;87;98;73;100;115;84;67;56;104;69;51;84;115;54;79;53;100;70;81;67;104;82;56;49;117;78;54;55;72;112;105;114;10;85;85;57;116;110;103;100;69;48;56;48;66;106;82;72;116;56;100;87;118;114;118;57;68;73;68;109;116;117;79;65;71;70;106;117;83;105;115;122;83;76;49;105;69;107;47;48;89;89;120;88;47;48;75;112;52;75;100;84;101;100;52;48;106;116;87;69;117;80;78;10;70;102;101;115;48;120;75;86;51;102;68;48;72;100;117;70;49;79;120;122;107;76;49;115;43;101;112;65;122;116;67;82;50;100;72;84;86;73;111;105;103;75;67;103;85;50;118;74;110;65;54;103;83;82;108;120;67;116;52;111;43;70;75;105;43;102;97;43;50;73;10;120;55;107;50;87;56;70;104;79;71;90;52;70;120;66;107;71;81;121;84;104;114;120;107;104;75;98;48;110;70;121;53;102;57;85;74;115;117;99;69;109;88;55;70;84;75;106;80;49;114;116;48;111;79;56;47;68;72;111;105;87;86;119;103;111;66;103;108;90;55;10;105;113;52;79;65;75;79;87;116;82;97;111;68;83;116;116;98;99;102;70;67;84;111;122;66;84;55;89;116;106;67;90;119;99;98;112;101;84;120;84;48;107;49;115;87;77;121;122;107;78;103;87;105;51;52;80;43;107;108;117;86;104;83;99;115;83;75;113;100;90;10;87;78;85;88;77;81;115;87;75;67;48;85;119;120;70;106;86;53;99;119;57;53;89;90;87;83;119;106;82;112;119;67;87;47;89;105;54;104;88;118;84;121;54;74;73;87;107;122;72;114;104;50;118;66;102;49;76;79;100;119;82;97;74;89;115;47;116;71;54;78;10;119;101;112;82;105;74;70;84;72;108;55;87;122;97;118;74;81;85;98;78;86;77;48;68;98;54;76;113;112;76;80;116;105;115;54;112;110;90;115;118;78;68;50;117;102;57;66;67;108;109;75;110;119;99;53;107;104;77;72;110;65;65;103;78;113;100;65;65;65;65;10;119;81;68;66;113;102;56;87;108;48;105;70;54;106;70;72;118;55;69;102;89;105;120;53;76;111;117;83;115;114;74;107;101;80;86;82;121;70;83;106;79;83;70;122;90;54;70;74;120;70;66;49;67;107;109;68;76;76;81;48;83;119;103;69;47;57;82;74;86;54;10;65;50;98;114;106;83;101;100;79;102;110;56;66;98;55;105;78;78;115;70;66;88;76;56;109;89;79;99;101;113;51;83;121;113;100;74;84;101;76;65;71;89;74;108;53;86;55;86;101;66;48;49;49;70;49;117;69;74;54;73;109;88;98;43;74;57;117;81;81;51;10;43;74;118;98;48;85;120;47;119;100;47;53;109;117;86;89;82;73;47;106;72;52;52;115;66;100;54;120;53;121;121;80;110;110;115;72;47;72;98;121;107;102;55;69;69;109;69;55;67;106;106;103;47;79;56;72;83;111;49;85;117;87;121;79;116;122;55;81;113;102;10;66;99;82;43;72;85;75;76;114;72;100;54;104;119;89;54;83;103;78;88;73;54;55;72;102;105;57;114;104;90;75;84;115;90;105;51;74;116;100;69;73;66;53;100;113;53;99;57;89;65;65;65;68;66;65;80;71;106;72;54;109;101;102;82;73;55;43;76;83;122;10;65;84;104;55;51;56;47;50;43;71;117;110;48;56;101;52;68;87;88;110;109;49;56;90;111;84;74;76;102;80;80;120;43;53;48;98;76;48;97;104;116;75;77;120;53;102;70;73;110;121;105;84;80;75;76;65;76;83;88;100;100;89;82;65;55;43;76;51;105;74;10;74;120;118;107;101;83;97;55;73;70;82;106;108;99;83;43;47;71;102;102;70;70;105;47;121;113;107;98;106;56;69;89;70;99;122;102;84;73;79;122;111;52;88;104;70;105;48;68;68;47;69;78;55;43;50;51;112;54;107;98;101;102;79;114;99;48;83;65;81;72;10;98;65;67;70;89;72;98;81;69;65;108;65;116;77;65;81;50;52;116;114;78;49;121;70;69;117;115;73;52;97;89;90;114;71;113;49;110;114;99;112;107;87;49;74;102;52;88;101;50;57;110;85;76;116;65;76;53;114;101;47;108;120;70;87;119;68;49;50;83;72;10;83;51;90;122;102;81;118;89;50;47;122;100;121;112;81;103;50;48;65;52;118;104;50;113;79;107;52;75;90;84;110;119;65;65;65;77;69;65;50;112;70;79;52;69;90;75;108;75;118;55;116;121;118;55;87;85;57;122;83;122;121;47;115;56;77;104;121;73;47;55;10;50;68;85;79;98;109;80;81;77;52;79;103;77;73;51;102;65;66;54;90;85;68;56;109;104;71;79;52;48;110;84;47;122;89;117;57;55;47;67;47;80;56;47;68;72;50;74;106;48;120;117;69;55;77;121;89;107;50;105;116;105;89;104;73;54;75;51;55;100;116;10;121;71;121;80;75;78;118;80;48;74;122;51;89;75;113;100;80;43;102;116;117;98;120;69;50;54;89;84;52;67;107;57;82;56;53;115;100;86;76;101;115;53;50;97;100;50;75;80;54;43;77;112;76;110;67;101;78;116;111;72;106;105;111;85;103;99;110;82;79;50;10;56;101;86;54;67;66;118;76;111;106;112;76;120;71;43;43;119;115;71;83;101;105;67;66;85;67;120;55;86;115;65;115;112;89;78;82;67;113;82;118;106;51;103;69;54;116;117;68;103;107;48;90;102;56;98;66;118;107;67;72;71;109;105;100;98;116;110;118;57;121;10;98;106;89;68;67;113;109;84;113;57;116;102;48;47;65;65;65;65;74;87;120;112;97;50;70;112;97;50;70;112;81;71;120;112;101;87;70;117;98;71;57;117;90;50;82;108;84;87;70;106;81;109;57;118;97;121;49;81;99;109;56;117;98;71;57;106;89;87;119;66;10;65;103;77;69;66;81;61;61;10;45;45;45;45;45;69;78;68;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10</PrivateKeyContent>
+    <PrivateKeyMode>1</PrivateKeyMode>
+    <PrivateKeyPath>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+    <UserName>root</UserName>
+  </RoyalCredential>
+  <RoyalSSHConnection>
+    <ID>e1a899fc-2913-43ac-bb3c-4166c9680ecd</ID>
+    <Name>MasterGo测试环境</Name>
+    <Modified>07/10/2023 06:32:26.560</Modified>
+    <Created>07/10/2023 06:30:48.148</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BellAction>1</BellAction>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>tD9SXQW95Mlgi5Z6bNmX8O2UluPUBlnyzMulxcuL3Wc8oC9aLXLmB08vdZuF3qP0VbVNWnodZgM4GhA1a/U9RutP6FOzGh6RJNbZeXUBIzQ=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ParentID>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <TerminalName>xterm-256color</TerminalName>
+    <URI>172.17.2.201</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>7599ee09-6cc3-471a-8288-c7879acb7df5</ID>
+    <Name>MasterGo预发环境</Name>
+    <Modified>07/10/2023 06:52:55.641</Modified>
+    <Created>07/10/2023 06:34:49.396</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BellAction>1</BellAction>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>tD9SXQW95Mlgi5Z6bNmX8O2UluPUBlnyzMulxcuL3Wc8oC9aLXLmB08vdZuF3qP0VbVNWnodZgM4GhA1a/U9RutP6FOzGh6RJNbZeXUBIzQ=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ParentID>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <TerminalName>xterm-256color</TerminalName>
+    <URI>172.17.2.204</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>435b8a5d-5f68-4737-8dd6-1b8d4ed9cf08</ID>
+    <Name>MasterGo交付环境</Name>
+    <Modified>07/10/2023 06:52:55.641</Modified>
+    <Created>07/10/2023 06:35:33.828</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>8</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BellAction>1</BellAction>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>tD9SXQW95Mlgi5Z6bNmX8O2UluPUBlnyzMulxcuL3Wc8oC9aLXLmB08vdZuF3qP0VbVNWnodZgM4GhA1a/U9RutP6FOzGh6RJNbZeXUBIzQ=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ParentID>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <TerminalName>xterm-256color</TerminalName>
+    <URI>172.17.6.36</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalFolder>
+    <ID>d0a98091-85b1-489d-8deb-0093c677cf44</ID>
+    <Name>test-ssh</Name>
+    <Modified>07/10/2023 09:47:07.768</Modified>
+    <Created>07/10/2023 06:52:34.414</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>10</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ColorFromParent>False</ColorFromParent>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ParentID>
+  </RoyalFolder>
+  <RoyalSSHConnection>
+    <ID>bd21bee8-2d53-41e2-8f03-57fa3c81ae68</ID>
+    <Name>MasterGo-test01</Name>
+    <Modified>07/13/2023 02:00:51.119</Modified>
+    <Created>07/10/2023 06:52:53.344</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BackspaceSequence>1</BackspaceSequence>
+    <BaudRate>9600</BaudRate>
+    <BellAction>1</BellAction>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>pQ8cPc5Ex1nALwZZaXiWZUXlve7uZltKoErAuDBn/WxtUa178/AIFsCiUmHRUwoBCsQEYb3CtlL296fg4Av5N3jOzS6Ve3c5ciPLwNGPJsY=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#FFFFFF</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#55FF55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#FFFF55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#7082FE</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#FF55FF</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55FFFF</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#FFFFFF</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#BB0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00BB00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#BBBB00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#11AAB5</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#BB00BB</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#63BCB9</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#BBBBBB</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#FF5555</CustomPalette9BrightRed>
+    <DataBits>8</DataBits>
+    <DisableXtermStyleMouseReporting>False</DisableXtermStyleMouseReporting>
+    <DisplayMode>0</DisplayMode>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <EnableLoggingOSX>False</EnableLoggingOSX>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>Monaco</FontOSX>
+    <FontSizeOSX>11</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <iTermTriggers>{}</iTermTriggers>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <LeftOptionKeyMode>0</LeftOptionKeyMode>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>Monaco</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>11</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>d0a98091-85b1-489d-8deb-0093c677cf44</ParentID>
+    <Parity>0</Parity>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RightOptionKeyMode>0</RightOptionKeyMode>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#FFFFFF</SelectionTextColor>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SmartCursorColor>True</SmartCursorColor>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <StopBits>1</StopBits>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalName>xterm-256color</TerminalName>
+    <TerminalRows>24</TerminalRows>
+    <URI>172.17.20.20</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>9ce73f4a-aa1a-4b7b-84f4-5f0552ad2297</ID>
+    <Name>MasterGo-test02</Name>
+    <Modified>07/13/2023 01:59:58.353</Modified>
+    <Created>07/10/2023 06:53:28.484</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BellAction>1</BellAction>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>Vc+Z6LkbXDASiX2nbXne70SgIesvL9LaCDld3PALTgCc3vERlvgUUhcpblefA0TadPv1T6qJETB1y3JWx7VxAT6NhCwJQckYbw03Bi7/9CM=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#FFFFFF</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#55FF55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#FFFF55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555FF</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#FF55FF</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55FFFF</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#FFFFFF</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#BB0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00BB00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#BBBB00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000BB</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#BB00BB</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00BBBB</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#BBBBBB</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#FF5555</CustomPalette9BrightRed>
+    <DisplayMode>0</DisplayMode>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>Monaco</FontOSX>
+    <FontSizeOSX>11</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>Monaco</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>11</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>d0a98091-85b1-489d-8deb-0093c677cf44</ParentID>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#FFFFFF</SelectionTextColor>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SmartCursorColor>True</SmartCursorColor>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalName>xterm-256color</TerminalName>
+    <TerminalRows>24</TerminalRows>
+    <URI>172.17.20.21</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>9295f468-a94a-400f-827b-789015f211f8</ID>
+    <Name>MasterGo-test03</Name>
+    <Modified>07/10/2023 06:53:56.577</Modified>
+    <Created>07/10/2023 06:53:45.267</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BellAction>1</BellAction>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>tD9SXQW95Mlgi5Z6bNmX8O2UluPUBlnyzMulxcuL3Wc8oC9aLXLmB08vdZuF3qP0VbVNWnodZgM4GhA1a/U9RutP6FOzGh6RJNbZeXUBIzQ=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>d0a98091-85b1-489d-8deb-0093c677cf44</ParentID>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <TerminalName>xterm-256color</TerminalName>
+    <URI>172.17.20.22</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>170f9e79-79e6-4504-8f2b-174efcf8a4d9</ID>
+    <Name>MasterGo-test04</Name>
+    <Modified>07/10/2023 06:54:15.013</Modified>
+    <Created>07/10/2023 06:54:06.151</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>8</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BellAction>1</BellAction>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>tD9SXQW95Mlgi5Z6bNmX8O2UluPUBlnyzMulxcuL3Wc8oC9aLXLmB08vdZuF3qP0VbVNWnodZgM4GhA1a/U9RutP6FOzGh6RJNbZeXUBIzQ=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <EncodingOSX>4</EncodingOSX>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <HistoryMaxLength>1000</HistoryMaxLength>
+    <HistoryUnlimited>False</HistoryUnlimited>
+    <IPVersionOSX>0</IPVersionOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeepAliveInterval>30</KeepAliveInterval>
+    <KeepTerminalContentOnDisconnect>False</KeepTerminalContentOnDisconnect>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>d0a98091-85b1-489d-8deb-0093c677cf44</ParentID>
+    <PlugInOSX>7c84a650-9896-11e1-a8b0-0800200c9a66</PlugInOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RunInsideLoginShell>True</RunInsideLoginShell>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SendKeyCodeWhenIdle>-1</SendKeyCodeWhenIdle>
+    <SetLocaleVariables>False</SetLocaleVariables>
+    <ShowWindowTitle>False</ShowWindowTitle>
+    <SSHAllowAgentForwarding>False</SSHAllowAgentForwarding>
+    <SSHDontAllocateAPseudoTerminal>False</SSHDontAllocateAPseudoTerminal>
+    <SSHEnableCompression>False</SSHEnableCompression>
+    <SSHEnableTrustedX11Forwarding>False</SSHEnableTrustedX11Forwarding>
+    <SSHEnableX11Forwarding>False</SSHEnableX11Forwarding>
+    <TerminalName>xterm-256color</TerminalName>
+    <URI>172.17.20.23</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <WarnFingerprintMismatch>True</WarnFingerprintMismatch>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>143fa03a-08b1-4b93-8b03-2fe96a45f2f3</ID>
+    <Name>MasterGo-Dev</Name>
+    <Modified>07/14/2023 06:14:55.862</Modified>
+    <Created>07/14/2023 06:14:38.313</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>10</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#F5DDD8</CursorColor>
+    <CursorTextColor>#D0DAF7</CursorTextColor>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#646B80</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#B4D79B</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#EBD1A1</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#9DBAF2</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#F7C7E9</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#91D1CA</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#B4BCD7</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#ED9796</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#B4D79B</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#EBD1A1</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#9DBAF2</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#F7C7E9</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#91D1CA</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#C2CBE8</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#757C92</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#ED9796</CustomPalette9BrightRed>
+    <DisplayMode>0</DisplayMode>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>AgaveNF-Regular</FontOSX>
+    <FontSizeOSX>15</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>AgaveNF-Regular</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>15</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <SelectionColor>#757C92</SelectionColor>
+    <SelectionTextColor>#D0DAF7</SelectionTextColor>
+    <SmartCursorColor>False</SmartCursorColor>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <BackColorOSX>#3F4458</BackColorOSX>
+    <ForeColorOSX>#D0DAF7</ForeColorOSX>
+    <BoldColorOSX>#D0DAF7</BoldColorOSX>
+    <CredentialUsername>liyanlong</CredentialUsername>
+    <CredentialPassword />
+    <CredentialName />
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <CredentialPassphrase />
+    <Passphrase />
+    <ParentID>d0a98091-85b1-489d-8deb-0093c677cf44</ParentID>
+    <ObjectSpecialUsage />
+    <URI>172.17.5.170</URI>
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CustomProperties />
+    <ProxyPassword />
+    <Favorite>False</Favorite>
+  </RoyalSSHConnection>
+  <RoyalFolder>
+    <ID>08c97105-12fe-4b79-82c4-0eba6dc5fb0b</ID>
+    <Name>test-xsftp</Name>
+    <Modified>07/10/2023 09:47:21.428</Modified>
+    <Created>07/10/2023 09:47:14.106</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>12</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ParentID>3f4cd6c1-f712-498f-8041-e17f2b7f19cb</ParentID>
+  </RoyalFolder>
+  <RoyalFileTransferConnection>
+    <ID>a25c2135-be61-453e-97f1-b84a8f130e91</ID>
+    <Name>MasterGo-test01</Name>
+    <Modified>07/10/2023 09:50:46.381</Modified>
+    <Created>07/10/2023 09:47:35.537</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>7a7453f0-c506-4007-b003-21db2fe6f133</CredentialId>
+    <CredentialKeyContent>45;45;45;45;45;66;69;71;73;78;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10;98;51;66;108;98;110;78;122;97;67;49;114;90;88;107;116;100;106;69;65;65;65;65;65;66;71;53;118;98;109;85;65;65;65;65;69;98;109;57;117;90;81;65;65;65;65;65;65;65;65;65;66;65;65;65;66;108;119;65;65;65;65;100;122;99;50;103;116;99;110;10;78;104;65;65;65;65;65;119;69;65;65;81;65;65;65;89;69;65;122;107;52;81;122;115;84;68;113;84;100;97;43;103;100;69;105;66;72;76;98;47;106;104;68;102;87;111;111;71;119;114;100;55;102;43;103;120;118;116;52;107;81;106;117;99;90;82;114;115;115;103;10;83;117;89;81;68;104;116;57;110;90;108;97;75;76;110;122;86;54;114;104;82;74;101;82;103;81;109;81;108;105;108;114;43;81;89;49;102;54;67;65;108;89;73;87;114;83;47;102;86;67;80;53;100;107;85;55;72;85;121;110;87;55;108;74;84;66;88;89;66;76;10;111;100;102;115;108;109;49;107;87;118;54;69;110;98;50;50;43;105;107;75;53;73;113;98;65;121;75;118;112;116;83;89;120;52;52;65;102;111;80;116;116;85;76;53;88;116;47;100;76;79;86;76;102;118;51;80;73;47;106;52;102;85;114;74;78;87;81;114;114;102;10;115;98;55;102;76;116;118;72;73;49;117;49;79;79;98;90;105;109;101;84;54;53;108;80;48;97;70;119;100;50;97;113;98;70;47;90;110;103;114;47;97;49;109;106;117;97;85;53;70;80;72;65;88;108;76;105;49;88;73;80;74;102;103;85;111;114;88;67;113;97;10;43;104;89;90;101;119;90;87;57;78;97;80;43;101;122;109;97;102;53;47;103;90;79;57;66;118;120;84;72;121;97;115;104;73;47;56;50;54;122;73;121;47;49;66;51;53;114;115;76;75;79;78;56;118;86;78;87;113;100;78;112;100;116;97;54;47;49;120;89;102;10;121;97;112;55;111;111;120;119;90;104;118;47;121;120;108;115;98;116;104;97;121;86;90;75;108;77;103;104;52;120;72;53;88;88;109;85;51;121;101;75;102;83;110;66;71;121;110;53;109;74;81;111;121;73;109;82;119;47;77;76;81;100;88;89;87;110;86;76;80;76;10;106;81;107;114;65;74;52;73;121;105;82;79;82;86;75;74;77;122;77;48;69;75;74;77;73;74;71;110;56;113;112;81;50;85;77;66;79;48;53;77;104;57;66;84;73;122;69;48;98;122;114;86;66;82;48;90;67;90;108;57;79;108;66;74;47;67;49;119;77;74;10;112;101;108;54;101;80;83;99;90;43;102;111;83;114;83;98;110;77;71;77;87;67;81;86;67;73;87;77;90;55;115;48;48;102;77;114;47;98;99;104;65;65;65;70;111;69;52;84;77;52;116;79;69;122;79;76;65;65;65;65;66;51;78;122;97;67;49;121;99;50;10;69;65;65;65;71;66;65;77;53;79;69;77;55;69;119;54;107;51;87;118;111;72;82;73;103;82;121;50;47;52;52;81;51;49;113;75;66;115;75;51;101;51;47;111;77;98;55;101;74;69;73;55;110;71;85;97;55;76;73;69;114;109;69;65;52;98;102;90;50;90;10;87;105;105;53;56;49;101;113;52;85;83;88;107;89;69;74;107;74;89;112;97;47;107;71;78;88;43;103;103;74;87;67;70;113;48;118;51;49;81;106;43;88;90;70;79;120;49;77;112;49;117;53;83;85;119;86;50;65;83;54;72;88;55;74;90;116;90;70;114;43;10;104;74;50;57;116;118;111;112;67;117;83;75;109;119;77;105;114;54;98;85;109;77;101;79;65;72;54;68;55;98;86;67;43;86;55;102;51;83;122;108;83;51;55;57;122;121;80;52;43;72;49;75;121;84;86;107;75;54;51;55;71;43;51;121;55;98;120;121;78;98;10;116;84;106;109;50;89;112;110;107;43;117;90;84;57;71;104;99;72;100;109;113;109;120;102;50;90;52;75;47;50;116;90;111;55;109;108;79;82;84;120;119;70;53;83;52;116;86;121;68;121;88;52;70;75;75;49;119;113;109;118;111;87;71;88;115;71;86;118;84;87;10;106;47;110;115;53;109;110;43;102;52;71;84;118;81;98;56;85;120;56;109;114;73;83;80;47;78;117;115;121;77;118;57;81;100;43;97;55;67;121;106;106;102;76;49;84;86;113;110;84;97;88;98;87;117;118;57;99;87;72;56;109;113;101;54;75;77;99;71;89;98;10;47;56;115;90;98;71;55;89;87;115;108;87;83;112;84;73;73;101;77;82;43;86;49;53;108;78;56;110;105;110;48;112;119;82;115;112;43;90;105;85;75;77;105;74;107;99;80;122;67;48;72;86;50;70;112;49;83;122;121;52;48;74;75;119;67;101;67;77;111;107;10;84;107;86;83;105;84;77;122;78;66;67;105;84;67;67;82;112;47;75;113;85;78;108;68;65;84;116;79;84;73;102;81;85;121;77;120;78;71;56;54;49;81;85;100;71;81;109;90;102;84;112;81;83;102;119;116;99;68;67;97;88;112;101;110;106;48;110;71;102;110;10;54;69;113;48;109;53;122;66;106;70;103;107;70;81;105;70;106;71;101;55;78;78;72;122;75;47;50;51;73;81;65;65;65;65;77;66;65;65;69;65;65;65;71;65;87;116;86;71;85;122;79;82;68;108;85;103;67;107;118;101;52;97;89;115;69;122;51;97;73;83;10;74;84;80;50;98;65;56;76;73;106;76;105;106;67;52;85;101;116;68;121;79;66;88;86;116;122;43;87;89;52;70;87;52;72;76;98;101;83;87;98;73;100;115;84;67;56;104;69;51;84;115;54;79;53;100;70;81;67;104;82;56;49;117;78;54;55;72;112;105;114;10;85;85;57;116;110;103;100;69;48;56;48;66;106;82;72;116;56;100;87;118;114;118;57;68;73;68;109;116;117;79;65;71;70;106;117;83;105;115;122;83;76;49;105;69;107;47;48;89;89;120;88;47;48;75;112;52;75;100;84;101;100;52;48;106;116;87;69;117;80;78;10;70;102;101;115;48;120;75;86;51;102;68;48;72;100;117;70;49;79;120;122;107;76;49;115;43;101;112;65;122;116;67;82;50;100;72;84;86;73;111;105;103;75;67;103;85;50;118;74;110;65;54;103;83;82;108;120;67;116;52;111;43;70;75;105;43;102;97;43;50;73;10;120;55;107;50;87;56;70;104;79;71;90;52;70;120;66;107;71;81;121;84;104;114;120;107;104;75;98;48;110;70;121;53;102;57;85;74;115;117;99;69;109;88;55;70;84;75;106;80;49;114;116;48;111;79;56;47;68;72;111;105;87;86;119;103;111;66;103;108;90;55;10;105;113;52;79;65;75;79;87;116;82;97;111;68;83;116;116;98;99;102;70;67;84;111;122;66;84;55;89;116;106;67;90;119;99;98;112;101;84;120;84;48;107;49;115;87;77;121;122;107;78;103;87;105;51;52;80;43;107;108;117;86;104;83;99;115;83;75;113;100;90;10;87;78;85;88;77;81;115;87;75;67;48;85;119;120;70;106;86;53;99;119;57;53;89;90;87;83;119;106;82;112;119;67;87;47;89;105;54;104;88;118;84;121;54;74;73;87;107;122;72;114;104;50;118;66;102;49;76;79;100;119;82;97;74;89;115;47;116;71;54;78;10;119;101;112;82;105;74;70;84;72;108;55;87;122;97;118;74;81;85;98;78;86;77;48;68;98;54;76;113;112;76;80;116;105;115;54;112;110;90;115;118;78;68;50;117;102;57;66;67;108;109;75;110;119;99;53;107;104;77;72;110;65;65;103;78;113;100;65;65;65;65;10;119;81;68;66;113;102;56;87;108;48;105;70;54;106;70;72;118;55;69;102;89;105;120;53;76;111;117;83;115;114;74;107;101;80;86;82;121;70;83;106;79;83;70;122;90;54;70;74;120;70;66;49;67;107;109;68;76;76;81;48;83;119;103;69;47;57;82;74;86;54;10;65;50;98;114;106;83;101;100;79;102;110;56;66;98;55;105;78;78;115;70;66;88;76;56;109;89;79;99;101;113;51;83;121;113;100;74;84;101;76;65;71;89;74;108;53;86;55;86;101;66;48;49;49;70;49;117;69;74;54;73;109;88;98;43;74;57;117;81;81;51;10;43;74;118;98;48;85;120;47;119;100;47;53;109;117;86;89;82;73;47;106;72;52;52;115;66;100;54;120;53;121;121;80;110;110;115;72;47;72;98;121;107;102;55;69;69;109;69;55;67;106;106;103;47;79;56;72;83;111;49;85;117;87;121;79;116;122;55;81;113;102;10;66;99;82;43;72;85;75;76;114;72;100;54;104;119;89;54;83;103;78;88;73;54;55;72;102;105;57;114;104;90;75;84;115;90;105;51;74;116;100;69;73;66;53;100;113;53;99;57;89;65;65;65;68;66;65;80;71;106;72;54;109;101;102;82;73;55;43;76;83;122;10;65;84;104;55;51;56;47;50;43;71;117;110;48;56;101;52;68;87;88;110;109;49;56;90;111;84;74;76;102;80;80;120;43;53;48;98;76;48;97;104;116;75;77;120;53;102;70;73;110;121;105;84;80;75;76;65;76;83;88;100;100;89;82;65;55;43;76;51;105;74;10;74;120;118;107;101;83;97;55;73;70;82;106;108;99;83;43;47;71;102;102;70;70;105;47;121;113;107;98;106;56;69;89;70;99;122;102;84;73;79;122;111;52;88;104;70;105;48;68;68;47;69;78;55;43;50;51;112;54;107;98;101;102;79;114;99;48;83;65;81;72;10;98;65;67;70;89;72;98;81;69;65;108;65;116;77;65;81;50;52;116;114;78;49;121;70;69;117;115;73;52;97;89;90;114;71;113;49;110;114;99;112;107;87;49;74;102;52;88;101;50;57;110;85;76;116;65;76;53;114;101;47;108;120;70;87;119;68;49;50;83;72;10;83;51;90;122;102;81;118;89;50;47;122;100;121;112;81;103;50;48;65;52;118;104;50;113;79;107;52;75;90;84;110;119;65;65;65;77;69;65;50;112;70;79;52;69;90;75;108;75;118;55;116;121;118;55;87;85;57;122;83;122;121;47;115;56;77;104;121;73;47;55;10;50;68;85;79;98;109;80;81;77;52;79;103;77;73;51;102;65;66;54;90;85;68;56;109;104;71;79;52;48;110;84;47;122;89;117;57;55;47;67;47;80;56;47;68;72;50;74;106;48;120;117;69;55;77;121;89;107;50;105;116;105;89;104;73;54;75;51;55;100;116;10;121;71;121;80;75;78;118;80;48;74;122;51;89;75;113;100;80;43;102;116;117;98;120;69;50;54;89;84;52;67;107;57;82;56;53;115;100;86;76;101;115;53;50;97;100;50;75;80;54;43;77;112;76;110;67;101;78;116;111;72;106;105;111;85;103;99;110;82;79;50;10;56;101;86;54;67;66;118;76;111;106;112;76;120;71;43;43;119;115;71;83;101;105;67;66;85;67;120;55;86;115;65;115;112;89;78;82;67;113;82;118;106;51;103;69;54;116;117;68;103;107;48;90;102;56;98;66;118;107;67;72;71;109;105;100;98;116;110;118;57;121;10;98;106;89;68;67;113;109;84;113;57;116;102;48;47;65;65;65;65;74;87;120;112;97;50;70;112;97;50;70;112;81;71;120;112;101;87;70;117;98;71;57;117;90;50;82;108;84;87;70;106;81;109;57;118;97;121;49;81;99;109;56;117;98;71;57;106;89;87;119;66;10;65;103;77;69;66;81;61;61;10;45;45;45;45;45;69;78;68;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10</CredentialKeyContent>
+    <CredentialKeyFile>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</CredentialKeyFile>
+    <CredentialKeyMode>1</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>08c97105-12fe-4b79-82c4-0eba6dc5fb0b</ParentID>
+    <Port>22</Port>
+    <PrivateKeyPath>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+    <Protocol>3</Protocol>
+    <URI>172.17.20.20</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>3a9cf52a-8a20-4e50-9ec0-a659ce4c4121</ID>
+    <Name>MasterGo-test02</Name>
+    <Modified>07/10/2023 09:51:59.857</Modified>
+    <Created>07/10/2023 09:51:46.478</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>7a7453f0-c506-4007-b003-21db2fe6f133</CredentialId>
+    <CredentialKeyContent>45;45;45;45;45;66;69;71;73;78;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10;98;51;66;108;98;110;78;122;97;67;49;114;90;88;107;116;100;106;69;65;65;65;65;65;66;71;53;118;98;109;85;65;65;65;65;69;98;109;57;117;90;81;65;65;65;65;65;65;65;65;65;66;65;65;65;66;108;119;65;65;65;65;100;122;99;50;103;116;99;110;10;78;104;65;65;65;65;65;119;69;65;65;81;65;65;65;89;69;65;122;107;52;81;122;115;84;68;113;84;100;97;43;103;100;69;105;66;72;76;98;47;106;104;68;102;87;111;111;71;119;114;100;55;102;43;103;120;118;116;52;107;81;106;117;99;90;82;114;115;115;103;10;83;117;89;81;68;104;116;57;110;90;108;97;75;76;110;122;86;54;114;104;82;74;101;82;103;81;109;81;108;105;108;114;43;81;89;49;102;54;67;65;108;89;73;87;114;83;47;102;86;67;80;53;100;107;85;55;72;85;121;110;87;55;108;74;84;66;88;89;66;76;10;111;100;102;115;108;109;49;107;87;118;54;69;110;98;50;50;43;105;107;75;53;73;113;98;65;121;75;118;112;116;83;89;120;52;52;65;102;111;80;116;116;85;76;53;88;116;47;100;76;79;86;76;102;118;51;80;73;47;106;52;102;85;114;74;78;87;81;114;114;102;10;115;98;55;102;76;116;118;72;73;49;117;49;79;79;98;90;105;109;101;84;54;53;108;80;48;97;70;119;100;50;97;113;98;70;47;90;110;103;114;47;97;49;109;106;117;97;85;53;70;80;72;65;88;108;76;105;49;88;73;80;74;102;103;85;111;114;88;67;113;97;10;43;104;89;90;101;119;90;87;57;78;97;80;43;101;122;109;97;102;53;47;103;90;79;57;66;118;120;84;72;121;97;115;104;73;47;56;50;54;122;73;121;47;49;66;51;53;114;115;76;75;79;78;56;118;86;78;87;113;100;78;112;100;116;97;54;47;49;120;89;102;10;121;97;112;55;111;111;120;119;90;104;118;47;121;120;108;115;98;116;104;97;121;86;90;75;108;77;103;104;52;120;72;53;88;88;109;85;51;121;101;75;102;83;110;66;71;121;110;53;109;74;81;111;121;73;109;82;119;47;77;76;81;100;88;89;87;110;86;76;80;76;10;106;81;107;114;65;74;52;73;121;105;82;79;82;86;75;74;77;122;77;48;69;75;74;77;73;74;71;110;56;113;112;81;50;85;77;66;79;48;53;77;104;57;66;84;73;122;69;48;98;122;114;86;66;82;48;90;67;90;108;57;79;108;66;74;47;67;49;119;77;74;10;112;101;108;54;101;80;83;99;90;43;102;111;83;114;83;98;110;77;71;77;87;67;81;86;67;73;87;77;90;55;115;48;48;102;77;114;47;98;99;104;65;65;65;70;111;69;52;84;77;52;116;79;69;122;79;76;65;65;65;65;66;51;78;122;97;67;49;121;99;50;10;69;65;65;65;71;66;65;77;53;79;69;77;55;69;119;54;107;51;87;118;111;72;82;73;103;82;121;50;47;52;52;81;51;49;113;75;66;115;75;51;101;51;47;111;77;98;55;101;74;69;73;55;110;71;85;97;55;76;73;69;114;109;69;65;52;98;102;90;50;90;10;87;105;105;53;56;49;101;113;52;85;83;88;107;89;69;74;107;74;89;112;97;47;107;71;78;88;43;103;103;74;87;67;70;113;48;118;51;49;81;106;43;88;90;70;79;120;49;77;112;49;117;53;83;85;119;86;50;65;83;54;72;88;55;74;90;116;90;70;114;43;10;104;74;50;57;116;118;111;112;67;117;83;75;109;119;77;105;114;54;98;85;109;77;101;79;65;72;54;68;55;98;86;67;43;86;55;102;51;83;122;108;83;51;55;57;122;121;80;52;43;72;49;75;121;84;86;107;75;54;51;55;71;43;51;121;55;98;120;121;78;98;10;116;84;106;109;50;89;112;110;107;43;117;90;84;57;71;104;99;72;100;109;113;109;120;102;50;90;52;75;47;50;116;90;111;55;109;108;79;82;84;120;119;70;53;83;52;116;86;121;68;121;88;52;70;75;75;49;119;113;109;118;111;87;71;88;115;71;86;118;84;87;10;106;47;110;115;53;109;110;43;102;52;71;84;118;81;98;56;85;120;56;109;114;73;83;80;47;78;117;115;121;77;118;57;81;100;43;97;55;67;121;106;106;102;76;49;84;86;113;110;84;97;88;98;87;117;118;57;99;87;72;56;109;113;101;54;75;77;99;71;89;98;10;47;56;115;90;98;71;55;89;87;115;108;87;83;112;84;73;73;101;77;82;43;86;49;53;108;78;56;110;105;110;48;112;119;82;115;112;43;90;105;85;75;77;105;74;107;99;80;122;67;48;72;86;50;70;112;49;83;122;121;52;48;74;75;119;67;101;67;77;111;107;10;84;107;86;83;105;84;77;122;78;66;67;105;84;67;67;82;112;47;75;113;85;78;108;68;65;84;116;79;84;73;102;81;85;121;77;120;78;71;56;54;49;81;85;100;71;81;109;90;102;84;112;81;83;102;119;116;99;68;67;97;88;112;101;110;106;48;110;71;102;110;10;54;69;113;48;109;53;122;66;106;70;103;107;70;81;105;70;106;71;101;55;78;78;72;122;75;47;50;51;73;81;65;65;65;65;77;66;65;65;69;65;65;65;71;65;87;116;86;71;85;122;79;82;68;108;85;103;67;107;118;101;52;97;89;115;69;122;51;97;73;83;10;74;84;80;50;98;65;56;76;73;106;76;105;106;67;52;85;101;116;68;121;79;66;88;86;116;122;43;87;89;52;70;87;52;72;76;98;101;83;87;98;73;100;115;84;67;56;104;69;51;84;115;54;79;53;100;70;81;67;104;82;56;49;117;78;54;55;72;112;105;114;10;85;85;57;116;110;103;100;69;48;56;48;66;106;82;72;116;56;100;87;118;114;118;57;68;73;68;109;116;117;79;65;71;70;106;117;83;105;115;122;83;76;49;105;69;107;47;48;89;89;120;88;47;48;75;112;52;75;100;84;101;100;52;48;106;116;87;69;117;80;78;10;70;102;101;115;48;120;75;86;51;102;68;48;72;100;117;70;49;79;120;122;107;76;49;115;43;101;112;65;122;116;67;82;50;100;72;84;86;73;111;105;103;75;67;103;85;50;118;74;110;65;54;103;83;82;108;120;67;116;52;111;43;70;75;105;43;102;97;43;50;73;10;120;55;107;50;87;56;70;104;79;71;90;52;70;120;66;107;71;81;121;84;104;114;120;107;104;75;98;48;110;70;121;53;102;57;85;74;115;117;99;69;109;88;55;70;84;75;106;80;49;114;116;48;111;79;56;47;68;72;111;105;87;86;119;103;111;66;103;108;90;55;10;105;113;52;79;65;75;79;87;116;82;97;111;68;83;116;116;98;99;102;70;67;84;111;122;66;84;55;89;116;106;67;90;119;99;98;112;101;84;120;84;48;107;49;115;87;77;121;122;107;78;103;87;105;51;52;80;43;107;108;117;86;104;83;99;115;83;75;113;100;90;10;87;78;85;88;77;81;115;87;75;67;48;85;119;120;70;106;86;53;99;119;57;53;89;90;87;83;119;106;82;112;119;67;87;47;89;105;54;104;88;118;84;121;54;74;73;87;107;122;72;114;104;50;118;66;102;49;76;79;100;119;82;97;74;89;115;47;116;71;54;78;10;119;101;112;82;105;74;70;84;72;108;55;87;122;97;118;74;81;85;98;78;86;77;48;68;98;54;76;113;112;76;80;116;105;115;54;112;110;90;115;118;78;68;50;117;102;57;66;67;108;109;75;110;119;99;53;107;104;77;72;110;65;65;103;78;113;100;65;65;65;65;10;119;81;68;66;113;102;56;87;108;48;105;70;54;106;70;72;118;55;69;102;89;105;120;53;76;111;117;83;115;114;74;107;101;80;86;82;121;70;83;106;79;83;70;122;90;54;70;74;120;70;66;49;67;107;109;68;76;76;81;48;83;119;103;69;47;57;82;74;86;54;10;65;50;98;114;106;83;101;100;79;102;110;56;66;98;55;105;78;78;115;70;66;88;76;56;109;89;79;99;101;113;51;83;121;113;100;74;84;101;76;65;71;89;74;108;53;86;55;86;101;66;48;49;49;70;49;117;69;74;54;73;109;88;98;43;74;57;117;81;81;51;10;43;74;118;98;48;85;120;47;119;100;47;53;109;117;86;89;82;73;47;106;72;52;52;115;66;100;54;120;53;121;121;80;110;110;115;72;47;72;98;121;107;102;55;69;69;109;69;55;67;106;106;103;47;79;56;72;83;111;49;85;117;87;121;79;116;122;55;81;113;102;10;66;99;82;43;72;85;75;76;114;72;100;54;104;119;89;54;83;103;78;88;73;54;55;72;102;105;57;114;104;90;75;84;115;90;105;51;74;116;100;69;73;66;53;100;113;53;99;57;89;65;65;65;68;66;65;80;71;106;72;54;109;101;102;82;73;55;43;76;83;122;10;65;84;104;55;51;56;47;50;43;71;117;110;48;56;101;52;68;87;88;110;109;49;56;90;111;84;74;76;102;80;80;120;43;53;48;98;76;48;97;104;116;75;77;120;53;102;70;73;110;121;105;84;80;75;76;65;76;83;88;100;100;89;82;65;55;43;76;51;105;74;10;74;120;118;107;101;83;97;55;73;70;82;106;108;99;83;43;47;71;102;102;70;70;105;47;121;113;107;98;106;56;69;89;70;99;122;102;84;73;79;122;111;52;88;104;70;105;48;68;68;47;69;78;55;43;50;51;112;54;107;98;101;102;79;114;99;48;83;65;81;72;10;98;65;67;70;89;72;98;81;69;65;108;65;116;77;65;81;50;52;116;114;78;49;121;70;69;117;115;73;52;97;89;90;114;71;113;49;110;114;99;112;107;87;49;74;102;52;88;101;50;57;110;85;76;116;65;76;53;114;101;47;108;120;70;87;119;68;49;50;83;72;10;83;51;90;122;102;81;118;89;50;47;122;100;121;112;81;103;50;48;65;52;118;104;50;113;79;107;52;75;90;84;110;119;65;65;65;77;69;65;50;112;70;79;52;69;90;75;108;75;118;55;116;121;118;55;87;85;57;122;83;122;121;47;115;56;77;104;121;73;47;55;10;50;68;85;79;98;109;80;81;77;52;79;103;77;73;51;102;65;66;54;90;85;68;56;109;104;71;79;52;48;110;84;47;122;89;117;57;55;47;67;47;80;56;47;68;72;50;74;106;48;120;117;69;55;77;121;89;107;50;105;116;105;89;104;73;54;75;51;55;100;116;10;121;71;121;80;75;78;118;80;48;74;122;51;89;75;113;100;80;43;102;116;117;98;120;69;50;54;89;84;52;67;107;57;82;56;53;115;100;86;76;101;115;53;50;97;100;50;75;80;54;43;77;112;76;110;67;101;78;116;111;72;106;105;111;85;103;99;110;82;79;50;10;56;101;86;54;67;66;118;76;111;106;112;76;120;71;43;43;119;115;71;83;101;105;67;66;85;67;120;55;86;115;65;115;112;89;78;82;67;113;82;118;106;51;103;69;54;116;117;68;103;107;48;90;102;56;98;66;118;107;67;72;71;109;105;100;98;116;110;118;57;121;10;98;106;89;68;67;113;109;84;113;57;116;102;48;47;65;65;65;65;74;87;120;112;97;50;70;112;97;50;70;112;81;71;120;112;101;87;70;117;98;71;57;117;90;50;82;108;84;87;70;106;81;109;57;118;97;121;49;81;99;109;56;117;98;71;57;106;89;87;119;66;10;65;103;77;69;66;81;61;61;10;45;45;45;45;45;69;78;68;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10</CredentialKeyContent>
+    <CredentialKeyFile>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</CredentialKeyFile>
+    <CredentialKeyMode>1</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>08c97105-12fe-4b79-82c4-0eba6dc5fb0b</ParentID>
+    <Port>22</Port>
+    <PrivateKeyPath>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+    <Protocol>3</Protocol>
+    <URI>172.17.20.21</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>61c48896-e918-4d9f-9aa7-44c539c3be85</ID>
+    <Name>MasterGo-test03</Name>
+    <Modified>07/10/2023 09:52:11.670</Modified>
+    <Created>07/10/2023 09:51:48.614</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>7a7453f0-c506-4007-b003-21db2fe6f133</CredentialId>
+    <CredentialKeyContent>45;45;45;45;45;66;69;71;73;78;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10;98;51;66;108;98;110;78;122;97;67;49;114;90;88;107;116;100;106;69;65;65;65;65;65;66;71;53;118;98;109;85;65;65;65;65;69;98;109;57;117;90;81;65;65;65;65;65;65;65;65;65;66;65;65;65;66;108;119;65;65;65;65;100;122;99;50;103;116;99;110;10;78;104;65;65;65;65;65;119;69;65;65;81;65;65;65;89;69;65;122;107;52;81;122;115;84;68;113;84;100;97;43;103;100;69;105;66;72;76;98;47;106;104;68;102;87;111;111;71;119;114;100;55;102;43;103;120;118;116;52;107;81;106;117;99;90;82;114;115;115;103;10;83;117;89;81;68;104;116;57;110;90;108;97;75;76;110;122;86;54;114;104;82;74;101;82;103;81;109;81;108;105;108;114;43;81;89;49;102;54;67;65;108;89;73;87;114;83;47;102;86;67;80;53;100;107;85;55;72;85;121;110;87;55;108;74;84;66;88;89;66;76;10;111;100;102;115;108;109;49;107;87;118;54;69;110;98;50;50;43;105;107;75;53;73;113;98;65;121;75;118;112;116;83;89;120;52;52;65;102;111;80;116;116;85;76;53;88;116;47;100;76;79;86;76;102;118;51;80;73;47;106;52;102;85;114;74;78;87;81;114;114;102;10;115;98;55;102;76;116;118;72;73;49;117;49;79;79;98;90;105;109;101;84;54;53;108;80;48;97;70;119;100;50;97;113;98;70;47;90;110;103;114;47;97;49;109;106;117;97;85;53;70;80;72;65;88;108;76;105;49;88;73;80;74;102;103;85;111;114;88;67;113;97;10;43;104;89;90;101;119;90;87;57;78;97;80;43;101;122;109;97;102;53;47;103;90;79;57;66;118;120;84;72;121;97;115;104;73;47;56;50;54;122;73;121;47;49;66;51;53;114;115;76;75;79;78;56;118;86;78;87;113;100;78;112;100;116;97;54;47;49;120;89;102;10;121;97;112;55;111;111;120;119;90;104;118;47;121;120;108;115;98;116;104;97;121;86;90;75;108;77;103;104;52;120;72;53;88;88;109;85;51;121;101;75;102;83;110;66;71;121;110;53;109;74;81;111;121;73;109;82;119;47;77;76;81;100;88;89;87;110;86;76;80;76;10;106;81;107;114;65;74;52;73;121;105;82;79;82;86;75;74;77;122;77;48;69;75;74;77;73;74;71;110;56;113;112;81;50;85;77;66;79;48;53;77;104;57;66;84;73;122;69;48;98;122;114;86;66;82;48;90;67;90;108;57;79;108;66;74;47;67;49;119;77;74;10;112;101;108;54;101;80;83;99;90;43;102;111;83;114;83;98;110;77;71;77;87;67;81;86;67;73;87;77;90;55;115;48;48;102;77;114;47;98;99;104;65;65;65;70;111;69;52;84;77;52;116;79;69;122;79;76;65;65;65;65;66;51;78;122;97;67;49;121;99;50;10;69;65;65;65;71;66;65;77;53;79;69;77;55;69;119;54;107;51;87;118;111;72;82;73;103;82;121;50;47;52;52;81;51;49;113;75;66;115;75;51;101;51;47;111;77;98;55;101;74;69;73;55;110;71;85;97;55;76;73;69;114;109;69;65;52;98;102;90;50;90;10;87;105;105;53;56;49;101;113;52;85;83;88;107;89;69;74;107;74;89;112;97;47;107;71;78;88;43;103;103;74;87;67;70;113;48;118;51;49;81;106;43;88;90;70;79;120;49;77;112;49;117;53;83;85;119;86;50;65;83;54;72;88;55;74;90;116;90;70;114;43;10;104;74;50;57;116;118;111;112;67;117;83;75;109;119;77;105;114;54;98;85;109;77;101;79;65;72;54;68;55;98;86;67;43;86;55;102;51;83;122;108;83;51;55;57;122;121;80;52;43;72;49;75;121;84;86;107;75;54;51;55;71;43;51;121;55;98;120;121;78;98;10;116;84;106;109;50;89;112;110;107;43;117;90;84;57;71;104;99;72;100;109;113;109;120;102;50;90;52;75;47;50;116;90;111;55;109;108;79;82;84;120;119;70;53;83;52;116;86;121;68;121;88;52;70;75;75;49;119;113;109;118;111;87;71;88;115;71;86;118;84;87;10;106;47;110;115;53;109;110;43;102;52;71;84;118;81;98;56;85;120;56;109;114;73;83;80;47;78;117;115;121;77;118;57;81;100;43;97;55;67;121;106;106;102;76;49;84;86;113;110;84;97;88;98;87;117;118;57;99;87;72;56;109;113;101;54;75;77;99;71;89;98;10;47;56;115;90;98;71;55;89;87;115;108;87;83;112;84;73;73;101;77;82;43;86;49;53;108;78;56;110;105;110;48;112;119;82;115;112;43;90;105;85;75;77;105;74;107;99;80;122;67;48;72;86;50;70;112;49;83;122;121;52;48;74;75;119;67;101;67;77;111;107;10;84;107;86;83;105;84;77;122;78;66;67;105;84;67;67;82;112;47;75;113;85;78;108;68;65;84;116;79;84;73;102;81;85;121;77;120;78;71;56;54;49;81;85;100;71;81;109;90;102;84;112;81;83;102;119;116;99;68;67;97;88;112;101;110;106;48;110;71;102;110;10;54;69;113;48;109;53;122;66;106;70;103;107;70;81;105;70;106;71;101;55;78;78;72;122;75;47;50;51;73;81;65;65;65;65;77;66;65;65;69;65;65;65;71;65;87;116;86;71;85;122;79;82;68;108;85;103;67;107;118;101;52;97;89;115;69;122;51;97;73;83;10;74;84;80;50;98;65;56;76;73;106;76;105;106;67;52;85;101;116;68;121;79;66;88;86;116;122;43;87;89;52;70;87;52;72;76;98;101;83;87;98;73;100;115;84;67;56;104;69;51;84;115;54;79;53;100;70;81;67;104;82;56;49;117;78;54;55;72;112;105;114;10;85;85;57;116;110;103;100;69;48;56;48;66;106;82;72;116;56;100;87;118;114;118;57;68;73;68;109;116;117;79;65;71;70;106;117;83;105;115;122;83;76;49;105;69;107;47;48;89;89;120;88;47;48;75;112;52;75;100;84;101;100;52;48;106;116;87;69;117;80;78;10;70;102;101;115;48;120;75;86;51;102;68;48;72;100;117;70;49;79;120;122;107;76;49;115;43;101;112;65;122;116;67;82;50;100;72;84;86;73;111;105;103;75;67;103;85;50;118;74;110;65;54;103;83;82;108;120;67;116;52;111;43;70;75;105;43;102;97;43;50;73;10;120;55;107;50;87;56;70;104;79;71;90;52;70;120;66;107;71;81;121;84;104;114;120;107;104;75;98;48;110;70;121;53;102;57;85;74;115;117;99;69;109;88;55;70;84;75;106;80;49;114;116;48;111;79;56;47;68;72;111;105;87;86;119;103;111;66;103;108;90;55;10;105;113;52;79;65;75;79;87;116;82;97;111;68;83;116;116;98;99;102;70;67;84;111;122;66;84;55;89;116;106;67;90;119;99;98;112;101;84;120;84;48;107;49;115;87;77;121;122;107;78;103;87;105;51;52;80;43;107;108;117;86;104;83;99;115;83;75;113;100;90;10;87;78;85;88;77;81;115;87;75;67;48;85;119;120;70;106;86;53;99;119;57;53;89;90;87;83;119;106;82;112;119;67;87;47;89;105;54;104;88;118;84;121;54;74;73;87;107;122;72;114;104;50;118;66;102;49;76;79;100;119;82;97;74;89;115;47;116;71;54;78;10;119;101;112;82;105;74;70;84;72;108;55;87;122;97;118;74;81;85;98;78;86;77;48;68;98;54;76;113;112;76;80;116;105;115;54;112;110;90;115;118;78;68;50;117;102;57;66;67;108;109;75;110;119;99;53;107;104;77;72;110;65;65;103;78;113;100;65;65;65;65;10;119;81;68;66;113;102;56;87;108;48;105;70;54;106;70;72;118;55;69;102;89;105;120;53;76;111;117;83;115;114;74;107;101;80;86;82;121;70;83;106;79;83;70;122;90;54;70;74;120;70;66;49;67;107;109;68;76;76;81;48;83;119;103;69;47;57;82;74;86;54;10;65;50;98;114;106;83;101;100;79;102;110;56;66;98;55;105;78;78;115;70;66;88;76;56;109;89;79;99;101;113;51;83;121;113;100;74;84;101;76;65;71;89;74;108;53;86;55;86;101;66;48;49;49;70;49;117;69;74;54;73;109;88;98;43;74;57;117;81;81;51;10;43;74;118;98;48;85;120;47;119;100;47;53;109;117;86;89;82;73;47;106;72;52;52;115;66;100;54;120;53;121;121;80;110;110;115;72;47;72;98;121;107;102;55;69;69;109;69;55;67;106;106;103;47;79;56;72;83;111;49;85;117;87;121;79;116;122;55;81;113;102;10;66;99;82;43;72;85;75;76;114;72;100;54;104;119;89;54;83;103;78;88;73;54;55;72;102;105;57;114;104;90;75;84;115;90;105;51;74;116;100;69;73;66;53;100;113;53;99;57;89;65;65;65;68;66;65;80;71;106;72;54;109;101;102;82;73;55;43;76;83;122;10;65;84;104;55;51;56;47;50;43;71;117;110;48;56;101;52;68;87;88;110;109;49;56;90;111;84;74;76;102;80;80;120;43;53;48;98;76;48;97;104;116;75;77;120;53;102;70;73;110;121;105;84;80;75;76;65;76;83;88;100;100;89;82;65;55;43;76;51;105;74;10;74;120;118;107;101;83;97;55;73;70;82;106;108;99;83;43;47;71;102;102;70;70;105;47;121;113;107;98;106;56;69;89;70;99;122;102;84;73;79;122;111;52;88;104;70;105;48;68;68;47;69;78;55;43;50;51;112;54;107;98;101;102;79;114;99;48;83;65;81;72;10;98;65;67;70;89;72;98;81;69;65;108;65;116;77;65;81;50;52;116;114;78;49;121;70;69;117;115;73;52;97;89;90;114;71;113;49;110;114;99;112;107;87;49;74;102;52;88;101;50;57;110;85;76;116;65;76;53;114;101;47;108;120;70;87;119;68;49;50;83;72;10;83;51;90;122;102;81;118;89;50;47;122;100;121;112;81;103;50;48;65;52;118;104;50;113;79;107;52;75;90;84;110;119;65;65;65;77;69;65;50;112;70;79;52;69;90;75;108;75;118;55;116;121;118;55;87;85;57;122;83;122;121;47;115;56;77;104;121;73;47;55;10;50;68;85;79;98;109;80;81;77;52;79;103;77;73;51;102;65;66;54;90;85;68;56;109;104;71;79;52;48;110;84;47;122;89;117;57;55;47;67;47;80;56;47;68;72;50;74;106;48;120;117;69;55;77;121;89;107;50;105;116;105;89;104;73;54;75;51;55;100;116;10;121;71;121;80;75;78;118;80;48;74;122;51;89;75;113;100;80;43;102;116;117;98;120;69;50;54;89;84;52;67;107;57;82;56;53;115;100;86;76;101;115;53;50;97;100;50;75;80;54;43;77;112;76;110;67;101;78;116;111;72;106;105;111;85;103;99;110;82;79;50;10;56;101;86;54;67;66;118;76;111;106;112;76;120;71;43;43;119;115;71;83;101;105;67;66;85;67;120;55;86;115;65;115;112;89;78;82;67;113;82;118;106;51;103;69;54;116;117;68;103;107;48;90;102;56;98;66;118;107;67;72;71;109;105;100;98;116;110;118;57;121;10;98;106;89;68;67;113;109;84;113;57;116;102;48;47;65;65;65;65;74;87;120;112;97;50;70;112;97;50;70;112;81;71;120;112;101;87;70;117;98;71;57;117;90;50;82;108;84;87;70;106;81;109;57;118;97;121;49;81;99;109;56;117;98;71;57;106;89;87;119;66;10;65;103;77;69;66;81;61;61;10;45;45;45;45;45;69;78;68;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10</CredentialKeyContent>
+    <CredentialKeyFile>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</CredentialKeyFile>
+    <CredentialKeyMode>1</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>08c97105-12fe-4b79-82c4-0eba6dc5fb0b</ParentID>
+    <Port>22</Port>
+    <PrivateKeyPath>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+    <Protocol>3</Protocol>
+    <URI>172.17.20.22</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>3ed07aa5-9e2e-4e09-8d2c-7c76ec732623</ID>
+    <Name>MasterGo-test04</Name>
+    <Modified>07/10/2023 09:52:21.050</Modified>
+    <Created>07/10/2023 09:51:51.248</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>8</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>7a7453f0-c506-4007-b003-21db2fe6f133</CredentialId>
+    <CredentialKeyContent>45;45;45;45;45;66;69;71;73;78;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10;98;51;66;108;98;110;78;122;97;67;49;114;90;88;107;116;100;106;69;65;65;65;65;65;66;71;53;118;98;109;85;65;65;65;65;69;98;109;57;117;90;81;65;65;65;65;65;65;65;65;65;66;65;65;65;66;108;119;65;65;65;65;100;122;99;50;103;116;99;110;10;78;104;65;65;65;65;65;119;69;65;65;81;65;65;65;89;69;65;122;107;52;81;122;115;84;68;113;84;100;97;43;103;100;69;105;66;72;76;98;47;106;104;68;102;87;111;111;71;119;114;100;55;102;43;103;120;118;116;52;107;81;106;117;99;90;82;114;115;115;103;10;83;117;89;81;68;104;116;57;110;90;108;97;75;76;110;122;86;54;114;104;82;74;101;82;103;81;109;81;108;105;108;114;43;81;89;49;102;54;67;65;108;89;73;87;114;83;47;102;86;67;80;53;100;107;85;55;72;85;121;110;87;55;108;74;84;66;88;89;66;76;10;111;100;102;115;108;109;49;107;87;118;54;69;110;98;50;50;43;105;107;75;53;73;113;98;65;121;75;118;112;116;83;89;120;52;52;65;102;111;80;116;116;85;76;53;88;116;47;100;76;79;86;76;102;118;51;80;73;47;106;52;102;85;114;74;78;87;81;114;114;102;10;115;98;55;102;76;116;118;72;73;49;117;49;79;79;98;90;105;109;101;84;54;53;108;80;48;97;70;119;100;50;97;113;98;70;47;90;110;103;114;47;97;49;109;106;117;97;85;53;70;80;72;65;88;108;76;105;49;88;73;80;74;102;103;85;111;114;88;67;113;97;10;43;104;89;90;101;119;90;87;57;78;97;80;43;101;122;109;97;102;53;47;103;90;79;57;66;118;120;84;72;121;97;115;104;73;47;56;50;54;122;73;121;47;49;66;51;53;114;115;76;75;79;78;56;118;86;78;87;113;100;78;112;100;116;97;54;47;49;120;89;102;10;121;97;112;55;111;111;120;119;90;104;118;47;121;120;108;115;98;116;104;97;121;86;90;75;108;77;103;104;52;120;72;53;88;88;109;85;51;121;101;75;102;83;110;66;71;121;110;53;109;74;81;111;121;73;109;82;119;47;77;76;81;100;88;89;87;110;86;76;80;76;10;106;81;107;114;65;74;52;73;121;105;82;79;82;86;75;74;77;122;77;48;69;75;74;77;73;74;71;110;56;113;112;81;50;85;77;66;79;48;53;77;104;57;66;84;73;122;69;48;98;122;114;86;66;82;48;90;67;90;108;57;79;108;66;74;47;67;49;119;77;74;10;112;101;108;54;101;80;83;99;90;43;102;111;83;114;83;98;110;77;71;77;87;67;81;86;67;73;87;77;90;55;115;48;48;102;77;114;47;98;99;104;65;65;65;70;111;69;52;84;77;52;116;79;69;122;79;76;65;65;65;65;66;51;78;122;97;67;49;121;99;50;10;69;65;65;65;71;66;65;77;53;79;69;77;55;69;119;54;107;51;87;118;111;72;82;73;103;82;121;50;47;52;52;81;51;49;113;75;66;115;75;51;101;51;47;111;77;98;55;101;74;69;73;55;110;71;85;97;55;76;73;69;114;109;69;65;52;98;102;90;50;90;10;87;105;105;53;56;49;101;113;52;85;83;88;107;89;69;74;107;74;89;112;97;47;107;71;78;88;43;103;103;74;87;67;70;113;48;118;51;49;81;106;43;88;90;70;79;120;49;77;112;49;117;53;83;85;119;86;50;65;83;54;72;88;55;74;90;116;90;70;114;43;10;104;74;50;57;116;118;111;112;67;117;83;75;109;119;77;105;114;54;98;85;109;77;101;79;65;72;54;68;55;98;86;67;43;86;55;102;51;83;122;108;83;51;55;57;122;121;80;52;43;72;49;75;121;84;86;107;75;54;51;55;71;43;51;121;55;98;120;121;78;98;10;116;84;106;109;50;89;112;110;107;43;117;90;84;57;71;104;99;72;100;109;113;109;120;102;50;90;52;75;47;50;116;90;111;55;109;108;79;82;84;120;119;70;53;83;52;116;86;121;68;121;88;52;70;75;75;49;119;113;109;118;111;87;71;88;115;71;86;118;84;87;10;106;47;110;115;53;109;110;43;102;52;71;84;118;81;98;56;85;120;56;109;114;73;83;80;47;78;117;115;121;77;118;57;81;100;43;97;55;67;121;106;106;102;76;49;84;86;113;110;84;97;88;98;87;117;118;57;99;87;72;56;109;113;101;54;75;77;99;71;89;98;10;47;56;115;90;98;71;55;89;87;115;108;87;83;112;84;73;73;101;77;82;43;86;49;53;108;78;56;110;105;110;48;112;119;82;115;112;43;90;105;85;75;77;105;74;107;99;80;122;67;48;72;86;50;70;112;49;83;122;121;52;48;74;75;119;67;101;67;77;111;107;10;84;107;86;83;105;84;77;122;78;66;67;105;84;67;67;82;112;47;75;113;85;78;108;68;65;84;116;79;84;73;102;81;85;121;77;120;78;71;56;54;49;81;85;100;71;81;109;90;102;84;112;81;83;102;119;116;99;68;67;97;88;112;101;110;106;48;110;71;102;110;10;54;69;113;48;109;53;122;66;106;70;103;107;70;81;105;70;106;71;101;55;78;78;72;122;75;47;50;51;73;81;65;65;65;65;77;66;65;65;69;65;65;65;71;65;87;116;86;71;85;122;79;82;68;108;85;103;67;107;118;101;52;97;89;115;69;122;51;97;73;83;10;74;84;80;50;98;65;56;76;73;106;76;105;106;67;52;85;101;116;68;121;79;66;88;86;116;122;43;87;89;52;70;87;52;72;76;98;101;83;87;98;73;100;115;84;67;56;104;69;51;84;115;54;79;53;100;70;81;67;104;82;56;49;117;78;54;55;72;112;105;114;10;85;85;57;116;110;103;100;69;48;56;48;66;106;82;72;116;56;100;87;118;114;118;57;68;73;68;109;116;117;79;65;71;70;106;117;83;105;115;122;83;76;49;105;69;107;47;48;89;89;120;88;47;48;75;112;52;75;100;84;101;100;52;48;106;116;87;69;117;80;78;10;70;102;101;115;48;120;75;86;51;102;68;48;72;100;117;70;49;79;120;122;107;76;49;115;43;101;112;65;122;116;67;82;50;100;72;84;86;73;111;105;103;75;67;103;85;50;118;74;110;65;54;103;83;82;108;120;67;116;52;111;43;70;75;105;43;102;97;43;50;73;10;120;55;107;50;87;56;70;104;79;71;90;52;70;120;66;107;71;81;121;84;104;114;120;107;104;75;98;48;110;70;121;53;102;57;85;74;115;117;99;69;109;88;55;70;84;75;106;80;49;114;116;48;111;79;56;47;68;72;111;105;87;86;119;103;111;66;103;108;90;55;10;105;113;52;79;65;75;79;87;116;82;97;111;68;83;116;116;98;99;102;70;67;84;111;122;66;84;55;89;116;106;67;90;119;99;98;112;101;84;120;84;48;107;49;115;87;77;121;122;107;78;103;87;105;51;52;80;43;107;108;117;86;104;83;99;115;83;75;113;100;90;10;87;78;85;88;77;81;115;87;75;67;48;85;119;120;70;106;86;53;99;119;57;53;89;90;87;83;119;106;82;112;119;67;87;47;89;105;54;104;88;118;84;121;54;74;73;87;107;122;72;114;104;50;118;66;102;49;76;79;100;119;82;97;74;89;115;47;116;71;54;78;10;119;101;112;82;105;74;70;84;72;108;55;87;122;97;118;74;81;85;98;78;86;77;48;68;98;54;76;113;112;76;80;116;105;115;54;112;110;90;115;118;78;68;50;117;102;57;66;67;108;109;75;110;119;99;53;107;104;77;72;110;65;65;103;78;113;100;65;65;65;65;10;119;81;68;66;113;102;56;87;108;48;105;70;54;106;70;72;118;55;69;102;89;105;120;53;76;111;117;83;115;114;74;107;101;80;86;82;121;70;83;106;79;83;70;122;90;54;70;74;120;70;66;49;67;107;109;68;76;76;81;48;83;119;103;69;47;57;82;74;86;54;10;65;50;98;114;106;83;101;100;79;102;110;56;66;98;55;105;78;78;115;70;66;88;76;56;109;89;79;99;101;113;51;83;121;113;100;74;84;101;76;65;71;89;74;108;53;86;55;86;101;66;48;49;49;70;49;117;69;74;54;73;109;88;98;43;74;57;117;81;81;51;10;43;74;118;98;48;85;120;47;119;100;47;53;109;117;86;89;82;73;47;106;72;52;52;115;66;100;54;120;53;121;121;80;110;110;115;72;47;72;98;121;107;102;55;69;69;109;69;55;67;106;106;103;47;79;56;72;83;111;49;85;117;87;121;79;116;122;55;81;113;102;10;66;99;82;43;72;85;75;76;114;72;100;54;104;119;89;54;83;103;78;88;73;54;55;72;102;105;57;114;104;90;75;84;115;90;105;51;74;116;100;69;73;66;53;100;113;53;99;57;89;65;65;65;68;66;65;80;71;106;72;54;109;101;102;82;73;55;43;76;83;122;10;65;84;104;55;51;56;47;50;43;71;117;110;48;56;101;52;68;87;88;110;109;49;56;90;111;84;74;76;102;80;80;120;43;53;48;98;76;48;97;104;116;75;77;120;53;102;70;73;110;121;105;84;80;75;76;65;76;83;88;100;100;89;82;65;55;43;76;51;105;74;10;74;120;118;107;101;83;97;55;73;70;82;106;108;99;83;43;47;71;102;102;70;70;105;47;121;113;107;98;106;56;69;89;70;99;122;102;84;73;79;122;111;52;88;104;70;105;48;68;68;47;69;78;55;43;50;51;112;54;107;98;101;102;79;114;99;48;83;65;81;72;10;98;65;67;70;89;72;98;81;69;65;108;65;116;77;65;81;50;52;116;114;78;49;121;70;69;117;115;73;52;97;89;90;114;71;113;49;110;114;99;112;107;87;49;74;102;52;88;101;50;57;110;85;76;116;65;76;53;114;101;47;108;120;70;87;119;68;49;50;83;72;10;83;51;90;122;102;81;118;89;50;47;122;100;121;112;81;103;50;48;65;52;118;104;50;113;79;107;52;75;90;84;110;119;65;65;65;77;69;65;50;112;70;79;52;69;90;75;108;75;118;55;116;121;118;55;87;85;57;122;83;122;121;47;115;56;77;104;121;73;47;55;10;50;68;85;79;98;109;80;81;77;52;79;103;77;73;51;102;65;66;54;90;85;68;56;109;104;71;79;52;48;110;84;47;122;89;117;57;55;47;67;47;80;56;47;68;72;50;74;106;48;120;117;69;55;77;121;89;107;50;105;116;105;89;104;73;54;75;51;55;100;116;10;121;71;121;80;75;78;118;80;48;74;122;51;89;75;113;100;80;43;102;116;117;98;120;69;50;54;89;84;52;67;107;57;82;56;53;115;100;86;76;101;115;53;50;97;100;50;75;80;54;43;77;112;76;110;67;101;78;116;111;72;106;105;111;85;103;99;110;82;79;50;10;56;101;86;54;67;66;118;76;111;106;112;76;120;71;43;43;119;115;71;83;101;105;67;66;85;67;120;55;86;115;65;115;112;89;78;82;67;113;82;118;106;51;103;69;54;116;117;68;103;107;48;90;102;56;98;66;118;107;67;72;71;109;105;100;98;116;110;118;57;121;10;98;106;89;68;67;113;109;84;113;57;116;102;48;47;65;65;65;65;74;87;120;112;97;50;70;112;97;50;70;112;81;71;120;112;101;87;70;117;98;71;57;117;90;50;82;108;84;87;70;106;81;109;57;118;97;121;49;81;99;109;56;117;98;71;57;106;89;87;119;66;10;65;103;77;69;66;81;61;61;10;45;45;45;45;45;69;78;68;32;79;80;69;78;83;83;72;32;80;82;73;86;65;84;69;32;75;69;89;45;45;45;45;45;10</CredentialKeyContent>
+    <CredentialKeyFile>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</CredentialKeyFile>
+    <CredentialKeyMode>1</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>08c97105-12fe-4b79-82c4-0eba6dc5fb0b</ParentID>
+    <Port>22</Port>
+    <PrivateKeyPath>/Users/likaikai/工作/蓝湖/macbookpro-ssh密钥/id_rsa</PrivateKeyPath>
+    <Protocol>3</Protocol>
+    <URI>172.17.20.23</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>56d87d96-9de4-4dab-8577-82310eb76292</ID>
+    <Name>MasterGo-Dev</Name>
+    <Modified>07/14/2023 06:15:47.748</Modified>
+    <Created>07/14/2023 06:15:06.573</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>10</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ParentID>08c97105-12fe-4b79-82c4-0eba6dc5fb0b</ParentID>
+    <ObjectSpecialUsage />
+    <URI>172.17.5.170</URI>
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CustomProperties />
+    <CredentialPassword />
+    <CredentialPassphrase />
+    <Passphrase />
+    <ProxyPassword />
+    <Protocol>0</Protocol>
+    <Port>21</Port>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImageList>{}</CustomImageList>
+    <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
+    <Color />
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialMode>2</CredentialMode>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername>liyanlong</CredentialUsername>
+    <CredentialName />
+    <CredentialKeyMode>1</CredentialKeyMode>
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <Favorite>False</Favorite>
+  </RoyalFileTransferConnection>
+</RTSZDocument>

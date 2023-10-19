@@ -1,0 +1,49 @@
+Host 114.115.220.142
+  HostName 114.115.220.142
+  User root
+
+Host 114.115.178.76
+  HostName 114.115.178.76
+  User root
+
+Host 172.17.5.170
+  HostName 172.17.5.170
+  User liyanlong
+
+Host 172.17.20.21
+  HostName 172.17.20.21
+  User root
+
+Host 10.8.0.10
+  HostName 10.8.0.10
+  User Windows11
+
+Host 10.0.0.85
+  HostName 10.0.0.85
+  User root
+  ProxyJump 10.8.0.10
+
+Host 10.0.0.86
+  HostName 10.0.0.85
+  User root
+  ProxyJump 10.8.0.10
+
+Host 10.0.0.5
+  HostName 10.0.0.85
+  User root
+  ProxyJump 10.8.0.10
+
+Host 10.0.0.15
+  HostName 10.0.0.85
+  User root
+  ProxyJump 10.8.0.10
+
+Host 10.0.0.16
+  HostName 10.0.0.85
+  User root
+  ProxyJump 10.8.0.10
+
+#Host 54.169.250.110
+#    HostName 54.169.250.110
+#    User ubuntu
+#    IdentityFile ~/.ssh/aws-ubuntu.pem

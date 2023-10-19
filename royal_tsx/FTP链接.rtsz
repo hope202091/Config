@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RTSZDocument>
+  <RoyalDocument>
+    <ID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ID>
+    <Modified>06/02/2023 11:42:44.200</Modified>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <Name>SFTP连接</Name>
+    <Created>08/13/2022 04:19:36.567</Created>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>0</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <AutoMergeOption>1</AutoMergeOption>
+    <AutoSaveAfterChange>False</AutoSaveAfterChange>
+    <AutoSaveOnClose>False</AutoSaveOnClose>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialMode>0</CredentialMode>
+    <DeletedObjectHistory>14b8fabd-bea0-4069-856e-3eff722c0bcd;ea0c1131-156f-46d2-9d9e-ce3a4d737d73;8e812481-4827-42db-b37c-9c57f650d25f;6f4d5b1a-f3b8-4200-88d5-64748af2e1ea;cef53e38-fbe7-4161-b1c9-cce902068e8a;68378fb8-f010-4be5-8970-c0385d8f6330;fe367557-49c0-49f9-a6e2-1f4d3899b745</DeletedObjectHistory>
+    <DeletedObjectRetention>30</DeletedObjectRetention>
+    <DocumentType>Workspace</DocumentType>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <LockdownFeaturesInUse>{}</LockdownFeaturesInUse>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <SaveOption>2</SaveOption>
+    <StoreFavoritesInUserConfig>False</StoreFavoritesInUserConfig>
+    <StoreFolderExpandStateInUserConfig>False</StoreFolderExpandStateInUserConfig>
+  </RoyalDocument>
+  <RoyalTrash>
+    <ID>c2b7b89c-85d9-467d-9486-a2d199ea4bdb</ID>
+    <Name>Trashcan</Name>
+    <Modified>08/13/2022 04:19:36.570</Modified>
+    <Created>08/13/2022 04:19:36.567</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <IsExpanded>False</IsExpanded>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+  </RoyalTrash>
+  <RoyalFileTransferConnection>
+    <ID>5f5da52c-8dc6-4bdf-99a9-739e78636083</ID>
+    <Name>腾讯云-master-centos7.9</Name>
+    <Modified>08/15/2022 12:06:48.793</Modified>
+    <Created>08/15/2022 12:03:40.879</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>qb6nJj9unG0TTIEjVXPAz3PhkNoNpRa5u/xkLqB5klgkoUOX2cDC9EEIxosJ6fbxZwmFv8n8cuWYjm8KMp6xHUOHOBHJCVZdlJICuwEF21o=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <Port>22</Port>
+    <Protocol>3</Protocol>
+    <URI>1.117.215.85</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>60c77a49-c308-4e51-8246-d361f04e7f81</ID>
+    <Name>腾讯云slave1-centos7.9</Name>
+    <Modified>08/15/2022 12:14:06.173</Modified>
+    <Created>08/15/2022 12:04:51.633</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>8tn/fR+F+PPXp15NkTQOTaHdfDFSsybdLznVzAOycmFF4qNgO//LaGARtglaXb6PGAtv0HIIZq/qvMj400na573URnht9KZTXG0yuPdRbF8=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <Protocol>3</Protocol>
+    <URI>1.117.25.141</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>6e4b6f6b-7e50-46c8-aa3c-9f654d02f216</ID>
+    <Name>云扩打包环境</Name>
+    <Modified>08/16/2022 11:41:25.168</Modified>
+    <Created>08/15/2022 12:07:03.217</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>8</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>OgTWl59jX4je+hCfD5ggF5RumkDbtJbA8v2IuhroKaZNzpIHqnqwdK8Ob4SKRUFzIZT3IpISIVZOfaPnBCw1m79QmmBQakVnbkktBUhdgyw=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <Port>22</Port>
+    <Protocol>3</Protocol>
+    <URI>192.168.90.133</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>b83f36b7-9d86-47bf-9cb3-3c8bd48ca139</ID>
+    <Name>哈夫曼打包环境</Name>
+    <Modified>10/20/2022 09:35:31.538</Modified>
+    <Created>10/20/2022 09:32:03.888</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>10</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>64/zjlE8Sy1gm484R0R5aLQq+3Dh2XR11zY5BfIlJGISeJ3RRRSe1A3zzCIm/oTJ2esOVEmFmHO6Mfle29/irMr5OY4pykPHS5n5gaDdLE8=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <Protocol>3</Protocol>
+    <URI>10.0.8.5</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>8c3d609b-bebd-4481-8768-fed7d59989f3</ID>
+    <Name>哈夫曼win</Name>
+    <Modified>11/07/2022 08:39:45.562</Modified>
+    <Created>11/07/2022 08:39:12.126</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>12</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>mu6OwbnymsVH7th3UeNAjsbGQ/fEQUsJfdZug5U8dKrieAdo5a1vTJkyFQXc5cySDX9I6pebmZxExfJHtU/Sn7/O0/J2aOC6GyPke9fdyjk=</CredentialPassword>
+    <CredentialUsername>oem</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <Port>22</Port>
+    <Protocol>3</Protocol>
+    <URI>10.0.8.15</URI>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>6f34018f-8e18-4fd0-ad54-06c984f463bf</ID>
+    <Name>美国vps</Name>
+    <Modified>02/22/2023 08:12:25.834</Modified>
+    <Created>02/22/2023 08:11:23.160</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>14</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>ScErSForJI4Ro/FBzo9ZdobhTaAO//bWLrf1LhTZYhckt0OJmTf/nUiVuPMIvou9vN8EnV4PTFowMJITEsy5TT0tCEyl+yPHgSdfkzpeOZc=</CredentialPassword>
+    <CredentialUsername>root</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
+    <DisplayMode>0</DisplayMode>
+    <Encoding>utf-8</Encoding>
+    <ExternalScreenMode>0</ExternalScreenMode>
+    <ExternalScreenOSX>0</ExternalScreenOSX>
+    <Favorite>False</Favorite>
+    <FTPPassiveMode>False</FTPPassiveMode>
+    <FTPTransferMode>1</FTPTransferMode>
+    <InitialLocalPathMode>3</InitialLocalPathMode>
+    <InitialRemotePathMode>0</InitialRemotePathMode>
+    <KeepAliveInterval>0</KeepAliveInterval>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <Port>21</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <Protocol>0</Protocol>
+    <RestoreCreationTime>False</RestoreCreationTime>
+    <RestoreLastAccessTime>False</RestoreLastAccessTime>
+    <RestoreLastWriteTime>False</RestoreLastWriteTime>
+    <ShowHiddenFiles>False</ShowHiddenFiles>
+    <URI>45.12.131.75 </URI>
+    <UseLargeBuffers>True</UseLargeBuffers>
+  </RoyalFileTransferConnection>
+  <RoyalFileTransferConnection>
+    <ID>f410fa0d-15f8-4aaa-b896-ad4e5aff9f95</ID>
+    <Name>张宜帅-新加坡</Name>
+    <Modified>06/02/2023 11:44:17.828</Modified>
+    <Created>06/02/2023 11:42:44.188</Created>
+    <ModifiedBy>likaikai</ModifiedBy>
+    <CreatedBy>likaikai</CreatedBy>
+    <PositionNr>16</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ParentID>8d0998c0-7732-4a0a-be7f-d28d64223f3a</ParentID>
+    <ObjectSpecialUsage />
+    <URI>8.219.169.103</URI>
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CustomProperties />
+    <CredentialPassword>D1iJswjh7HEOWWbIJb7QqBNSjNq0CKXlRdPOH+x7ailQA3sbriFsMbJCAlIj9vFDuKt57Of3aUOZ77eoW6HtVJh3GR0hoVkiGnQcO29vPKI=</CredentialPassword>
+    <CredentialPassphrase />
+    <Passphrase />
+    <ProxyPassword />
+    <Protocol>3</Protocol>
+    <Port>22</Port>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImageList>{}</CustomImageList>
+    <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
+    <Color />
+    <InitialLocalPathMode>3</InitialLocalPathMode>
+    <InitialLocalPathMac />
+    <InitialRemotePathMode>0</InitialRemotePathMode>
+    <InitialRemotePath />
+    <ShowHiddenFiles>False</ShowHiddenFiles>
+    <UseLargeBuffers>True</UseLargeBuffers>
+    <Encoding>utf-8</Encoding>
+    <KeepAliveInterval>0</KeepAliveInterval>
+    <RestoreCreationTime>False</RestoreCreationTime>
+    <RestoreLastWriteTime>False</RestoreLastWriteTime>
+    <RestoreLastAccessTime>False</RestoreLastAccessTime>
+    <CustomCommand />
+    <FTPTransferMode>1</FTPTransferMode>
+    <FTPPassiveMode>False</FTPPassiveMode>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialMode>2</CredentialMode>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername>root</CredentialUsername>
+    <CredentialName />
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskName />
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskName />
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceEnabled>False</KeySequenceEnabled>
+    <KeySequence />
+    <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
+    <KeySequenceName />
+    <Favorite>False</Favorite>
+    <SecureGatewayFromParent>False</SecureGatewayFromParent>
+    <SecureGatewayUsageMode>0</SecureGatewayUsageMode>
+    <SecureGatewayID>00000000-0000-0000-0000-000000000000</SecureGatewayID>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <PlugInOSX>3e63afa6-61f6-4f9f-85bf-a773ab0408b0</PlugInOSX>
+  </RoyalFileTransferConnection>
+</RTSZDocument>
