@@ -1,0 +1,61 @@
+#Mastergo
+- name: Mastergo
+  children:
+  - { 
+      name: MasterGo-Dev,
+      user: liyanlong,
+      host: 172.17.5.170,
+      port: 22,
+      password: 
+    }
+
+  - { 
+      name: MasterGo-Poc,
+      user: root,
+      host: 172.17.6.36,
+      port: 22,
+      password: 
+    }
+
+  - { 
+      name: MasterGo-pri,
+      user: root,
+      host: 172.17.2.201,
+      port: 22,
+      password: 
+    }
+
+  - { 
+      name: MasterGo-uat,
+      user: root,
+      host: 172.17.2.204,
+      port: 22,
+      password: MasterGo123
+    }
+
+  - {  
+      name: MasterGo-lyl1,
+      user: root,
+      host: 172.17.20.21,
+      port: 22,
+      password: 
+    }
+
+  - {
+      name: Lanhu-download,
+      user: root,
+      host: 182.92.1.142,
+      port: 22,
+      password: 
+    }
+
+#HuaweiCloud
+- name: HuaweiCloud
+  children:
+  - { name: huawei-centos, user: root, host: 114.115.178.76 }
+  - { name: huawei-ubuntu, user: root, host: 114.115.220.142 }
+
+#AWS
+- name: AWS
+  children:
+  - { name: aws-ubuntu, user: ubuntu, port: 10022, host: aws-ubuntu-ss-lb-a3672a06ec9dcde7.elb.ap-southeast-1.amazonaws.com }
