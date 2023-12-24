@@ -38,7 +38,7 @@
       user: root,
       host: 172.17.20.21,
       port: 22,
-      password: 
+      password: Aptech1!
     }
 
   - {
@@ -58,4 +58,5 @@
 #AWS
 - name: AWS
   children:
-  - { name: aws-ubuntu, user: ubuntu, port: 10022, host: aws-ubuntu-ss-lb-a3672a06ec9dcde7.elb.ap-southeast-1.amazonaws.com }
+  - { name: aws-ubuntu-ss, user: ubuntu, port: 10022, host: aws-ubuntu-lb-323479af88159bb2.elb.ap-southeast-1.amazonaws.com }
+  - { name: aws-ubuntu-gpt, user: ubuntu, port: 22, host: 54.254.251.137 }
